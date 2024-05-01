@@ -1,0 +1,2993 @@
+,unit,country,currency,year,value
+0,Afghani,Afghanistan,ANF,2001,78400.0
+1,Lek,Albania,ALL,2001,142.4
+2,Dinar,Algeria,DZD,2001,76.54
+3,Kwanza,Angola,AOA,2001,19.71
+4,E. Caribbean Dollar,Antigua-Barbuda,XCD,2001,2.7
+5,Peso,Argentina,ARS,2001,1.0
+6,Dram,Armenia,AMD,2001,550.0
+7,Dollar,Australia,AUD,2001,1.9
+8,Euro,Austria,EUR,2001,1.08
+9,Manat,Azerbaijan,AZN,2001,4600.0
+10,Dollar,Bahamas,BSD,2001,1.0
+11,Dinar,Bahrain,BHD,2001,0.38
+12,Taka,Bangladesh,BDT,2001,54.0
+13,Dollar,Barbados,BBD,2001,2.0
+14,Ruble,Belarus,BYN,2001,1230.0
+15,Euro,Belgium,EUR,2001,1.08
+16,Dollar,Belize,BZD,2001,2.0
+17,Cfa Franc,Benin,XOF,2001,710.53
+18,Dollar,Bermuda,BMD,2001,1.0
+19,Boliviano,Bolivia,BOB,2001,6.44
+20,Marka,Bosnia-Hercegovina,BAM,2001,2.12
+21,Pula,Botswana,BWP,2001,5.38
+22,Real,Brazil,BRL,2001,2.04
+23,Dollar,Brunei,BND,2001,1.74
+24,Lev,Bulgaria,BGN,2001,2.11
+25,Cfa Franc,Burkina Faso,XOF,2001,710.53
+26,Kyat,Burma-Myanmar,MMK,2001,350.0
+27,Franc,Burundi,BIF,2001,780.59
+28,Riel,Cambodia,KHR,2001,3910.0
+29,Cfa Franc,Cameroon,XAF,2001,710.53
+30,Dollar,Canada,CAD,2001,1.53
+31,Escudo,Cape Verde,CVE,2001,121.2
+32,Dollar,Cayman Islands,KYD,2001,710.53
+33,Cfa Franc,Central African Republic,XAF,2001,710.53
+34,Cfa Franc,Chad,XAF,2001,710.53
+35,Peso,Chile,CLP,2001,574.04
+36,Renminbi,China,CNY,2001,8.27
+37,Peso,Colombia,COP,2001,2262.8
+38,Franc,Comoros,KMF,2001,532.9
+39,Cfa Franc,Congo,XAF,2001,710.53
+40,Congolese Franc,"Congo, Dem. Rep",CDF,2001,50.0
+41,Colon,Costa Rica,CRC,2001,321.01
+42,Kuna,Croatia,EUR,2001,8.46
+43,Peso,Cuba,CUP,2001,0.63
+44,Euro,Cyprus,EUR,2001,0.63
+45,Koruna,Czechia,CZK,2001,36.63
+46,Krone,Denmark,DKK,2001,8.08
+47,Franc,Djibouti,DJF,2001,176.95
+48,Peso,Dominican Republic,DOP,2001,16.59
+49,Dollar,Ecuador,USD,2001,1.0
+50,Pound,Egypt,EGP,2001,3.88
+51,Colon,El Salvador,SVC,2001,8.75
+52,Cfa Franc,Equatorial Guinea,XAF,2001,710.53
+53,Nakfa,Eritrea,ERN,2001,10.2
+54,Euro,Estonia,EUR,2001,16.95
+55,Birr,Ethiopia,ETB,2001,8.37
+56,Euro,Euro Zone,EUR,2001,1.08
+57,Dollar,Fiji,FJD,2001,2.2
+58,Euro,Finland,EUR,2001,6.44
+59,Euro,France,EUR,2001,7.1
+60,Cfa Franc,Gabon,XAF,2001,710.53
+61,Dalasi,Gambia,GMD,2001,15.0
+62,Lari,Georgia,GEL,2001,2.08
+63,Euro,Germany,EUR,2001,1.08
+64,Cedi,Ghana,GHS,2001,7095.0
+65,Euro,Greece,EUR,2001,369.1
+66,E. Caribbean Dollar,Grenada,XCD,2001,2.7
+67,Quentzal,Guatemala,GTQ,2001,7.7
+68,Franc,Guinea,GNF,2001,1900.0
+69,Cfa Franc,Guinea Bissau,XOF,2001,710.53
+70,Dollar,Guyana,GYD,2001,180.0
+71,Gourde,Haiti,HTG,2001,23.54
+72,Lempira,Honduras,HNL,2001,15.02
+73,Dollar,Hong Kong,HKD,2001,7.8
+74,Forint,Hungary,HUF,2001,288.55
+75,Krona,Iceland,ISK,2001,86.23
+76,Rupee,India,INR,2001,46.5
+77,Rupiah,Indonesia,IDR,2001,9440.0
+78,Rial,Iran,IRR,2001,0.85
+79,Dinar,Iraq,IQD,2001,0.85
+80,Euro,Ireland,EUR,2001,0.85
+81,Shekel,Israel,ILS,2001,4.11
+82,Euro,Italy,EUR,2001,1.08
+83,Cfa Franc,Ivory Coast,XOF,2001,710.53
+84,Dollar,Jamaica,JMD,2001,45.3
+85,Yen,Japan,JPY,2001,117.32
+86,Dinar,Jordan,JOD,2001,0.71
+87,Tenge,Kazakhstan,KZT,2001,146.7
+88,Shilling,Kenya,KES,2001,78.0
+89,Won,Korea,KRW,2001,1253.1
+90,Dinar,Kuwait,KWD,2001,0.31
+91,Som,Kyrgyzstan,KGS,2001,49.3
+92,Kip,Laos,LAK,2001,8197.0
+93,Euro,Latvia,EUR,2001,0.62
+94,Pound,Lebanon,LBP,2001,1501.0
+95,South African Rand,Lesotho,LSL,2001,7.68
+96,U.S. Dollar,Liberia,LRD,2001,41.0
+97,Dinar,Libya,LYD,2001,4.0
+98,Euro,Lithuania,EUR,2001,4.0
+99,Euro,Luxembourg,EUR,2001,1.08
+100,Mop,Macao,MOP,2001,65.52
+101,Denar,North Macedonia,MKD,2001,65.52
+102,Ariary,Madagascar,MGA,2001,6460.0
+103,Kwacha,Malawi,MWK,2001,79.75
+104,Ringgit,Malaysia,MYR,2001,3.8
+105,Cfa Franc,Mali,XOF,2001,710.53
+106,Euro,Malta,EUR,2001,0.44
+107,Dollar,Marshalls Islands,USD,2001,1.0
+108,Euro,Martinique,EUR,2001,7.1
+109,Ouguiya,Mauritania,MRU,2001,239.38
+110,Rupee,Mauritius,MUR,2001,27.92
+111,Peso,Mexico,MXN,2001,9.68
+112,Dollar,Micronesia,USD,2001,1.0
+113,Leu,Moldova,MDL,2001,12.85
+114,Tugrik,Mongolia,MNT,2001,1098.0
+115,Euro,Montenegro,EUR,2001,10.7
+116,Dirham,Morocco,MAD,2001,10.7
+117,Metical,Mozambique,MZN,2001,18025.0
+118,Dollar,Namibia,NAD,2001,7.68
+119,Rupee,Nepal,NPR,2001,73.7
+120,Euro,Netherlands,EUR,2001,1.08
+121,Guilder,Netherlands Antilles,EUR,2001,1.78
+122,Dollar,New Zealand,NZD,2001,2.32
+123,Cordoba,Nicaragua,NIO,2001,12.9
+124,Cfa Franc,Niger,XOF,2001,710.53
+125,Naira,Nigeria,NGN,2001,113.0
+126,Krone,Norway,NOK,2001,8.91
+127,Rial,Oman,OMR,2001,0.38
+128,Rupee,Pakistan,PKR,2001,59.25
+129,Dollar,Palau,USD,2001,1.0
+130,Balboa,Panama,PAB,2001,1.0
+131,Kina,Papua New Guinea,PGK,2001,3.11
+132,Guarani,Paraguay,PYG,2001,3735.0
+133,Nuevo Sol,Peru,PEN,2001,3.52
+134,Peso,Philippines,PHP,2001,48.2
+135,Zloty,Poland,PLN,2001,4.04
+136,Euro,Portugal,EUR,2001,217.16
+137,Riyal,Qatar,QAR,2001,3.64
+138,Dollar,Republic Of Palau,USD,2001,27056.0
+139,Leu,Romania,RON,2001,27056.0
+140,Ruble,Russia,RUB,2001,433.49
+141,Franc,Rwanda,RWF,2001,433.49
+142,Dobras,Sao Tome & Principe,STN,2001,7314.6
+143,Riyal,Saudi Arabia,SAR,2001,3.75
+144,Cfa Franc,Senegal,XOF,2001,710.53
+145,Dinar,Serbia,RSD,2001,5.73
+146,Rupee,Seychelles,SCR,2001,5.73
+147,Leone,Sierra Leone,SLE,2001,1950.0
+148,Dollar,Singapore,SGD,2001,1.74
+149,Korun,Slovakia,EUR,2001,47.41
+150,Euro,Slovenia,EUR,2001,233.1
+151,Dollar,Solomon Islands,SBD,2001,5.04
+152,Rand,South Africa,ZAR,2001,7.68
+153,Pound,South Sudanese,SSP,2001,28.66
+154,Euro,Spain,EUR,2001,180.27
+155,Rupee,Sri Lanka,LKR,2001,86.0
+156,Sudanese Pound,Sudan,SDG,2001,257.0
+157,Guilder,Suriname,SRD,2001,2320.0
+158,Lilangeni,Swaziland,SZL,2001,7.68
+159,Krona,Sweden,SEK,2001,9.79
+160,Franc,Switzerland,CHF,2001,1.67
+161,Pound,Syria,SYP,2001,46.0
+162,Dollar,Taiwan,TWD,2001,32.3
+163,Ruble,Tajikistan,TJS,2001,2.4
+164,Shilling,Tanzania,TZS,2001,819.0
+165,Baht,Thailand,THB,2001,43.08
+166,Dili,Timor Leste,USD,2001,710.53
+167,Cfa Franc,Togo,XOF,2001,710.53
+168,Pa'Anga,Tonga,TOP,2001,1.98
+169,Dollar,Trinidad & Tobago,TTD,2001,6.24
+170,Dinar,Tunisia,TND,2001,1.38
+171,Lira,Turkey,TRY,2001,930000.0
+172,Ruble,Turkmenistan,TMT,2001,5250.0
+173,Shilling,Uganda,UGX,2001,1680.0
+174,Hryvnia,Ukraine,UAH,2001,5.57
+175,Dirham,United Arab Emirates,AED,2001,3.67
+176,Pound Sterling,United Kingdom,GBP,2001,0.69
+177,Peso,Uruguay,UYU,2001,12.6
+178,Som,Uzbekistan,UZS,2001,793.5
+179,Vatu,Vanuatu,VUV,2001,142.45
+180,Bolivar,Venezuela,VED,2001,704.0
+181,Dong,Vietnam,VND,2001,14562.0
+182,Tala,Western Samoa,USD,2001,3.28
+183,Rial,Yemen,YER,2001,165.0
+184,Dinar,Yugoslavia,RSD,2001,64.8
+185,Kwacha,Zambia,ZMW,2001,3520.0
+186,Dollar,Zimbabwe,ZWL,2001,80.0
+187,Afghani,Afghanistan,ANF,2002,35000.0
+188,Lek,Albania,ALL,2002,139.81
+189,Dinar,Algeria,DZD,2002,78.32
+190,Kwanza,Angola,AOA,2002,34.32
+191,E. Caribbean Dollar,Antigua-Barbuda,XCD,2002,2.7
+192,Peso,Argentina,ARS,2002,2.08
+193,Dram,Armenia,AMD,2002,566.0
+194,Dollar,Australia,AUD,2002,1.94
+195,Euro,Austria,EUR,2002,1.15
+196,Manat,Azerbaijan,AZN,2002,4800.0
+197,Dollar,Bahamas,BSD,2002,1.0
+198,Dinar,Bahrain,BHD,2002,0.38
+199,Taka,Bangladesh,BDT,2002,58.0
+200,Dollar,Barbados,BBD,2002,2.0
+201,Ruble,Belarus,BYN,2002,1668.0
+202,Euro,Belgium,EUR,2002,1.15
+203,Dollar,Belize,BZD,2002,2.0
+204,Cfa Franc,Benin,XOF,2002,756.23
+205,Dollar,Bermuda,BMD,2002,1.0
+206,Boliviano,Bolivia,BOB,2002,6.92
+207,Marka,Bosnia-Hercegovina,BAM,2002,2.26
+208,Pula,Botswana,BWP,2002,6.72
+209,Real,Brazil,BRL,2002,2.36
+210,Dollar,Brunei,BND,2002,1.83
+211,Lev,Bulgaria,BGN,2002,2.25
+212,Cfa Franc,Burkina Faso,XOF,2002,756.23
+213,Kyat,Burma-Myanmar,MMK,2002,450.0
+214,Franc,Burundi,BIF,2002,853.35
+215,Riel,Cambodia,KHR,2002,3895.0
+216,Cfa Franc,Cameroon,XAF,2002,756.23
+217,Dollar,Canada,CAD,2002,1.6
+218,Escudo,Cape Verde,CVE,2002,127.18
+219,Dollar,Cayman Islands,KYD,2002,756.23
+220,Cfa Franc,Central African Republic,XAF,2002,756.23
+221,Cfa Franc,Chad,XAF,2002,756.23
+222,Peso,Chile,CLP,2002,679.7
+223,Renminbi,China,CNY,2002,8.26
+224,Peso,Colombia,COP,2002,2303.0
+225,Franc,Comoros,KMF,2002,567.17
+226,Cfa Franc,Congo,XAF,2002,756.23
+227,Congolese Franc,"Congo, Dem. Rep",CDF,2002,339.0
+228,Colon,Costa Rica,CRC,2002,347.05
+229,Kuna,Croatia,EUR,2002,8.57
+230,Peso,Cuba,CUP,2002,0.66
+231,Euro,Cyprus,EUR,2002,0.66
+232,Koruna,Czechia,CZK,2002,36.02
+233,Krone,Denmark,DKK,2002,8.57
+234,Franc,Djibouti,DJF,2002,176.95
+235,Peso,Dominican Republic,DOP,2002,17.5
+236,Dollar,Ecuador,USD,2002,1.0
+237,Pound,Egypt,EGP,2002,4.62
+238,Colon,El Salvador,SVC,2002,8.75
+239,Cfa Franc,Equatorial Guinea,XAF,2002,756.23
+240,Nakfa,Eritrea,ERN,2002,13.55
+241,Euro,Estonia,EUR,2002,18.04
+242,Birr,Ethiopia,ETB,2002,8.56
+243,Euro,Euro Zone,EUR,2002,1.15
+244,Dollar,Fiji,FJD,2002,2.29
+245,Euro,Finland,EUR,2002,1.15
+246,Euro,France,EUR,2002,1.15
+247,Cfa Franc,Gabon,XAF,2002,756.23
+248,Dalasi,Gambia,GMD,2002,19.0
+249,Lari,Georgia,GEL,2002,2.22
+250,Euro,Germany,EUR,2002,1.15
+251,Cedi,Ghana,GHS,2002,7450.0
+252,Euro,Greece,EUR,2002,392.84
+253,E. Caribbean Dollar,Grenada,XCD,2002,2.7
+254,Quentzal,Guatemala,GTQ,2002,8.01
+255,Franc,Guinea,GNF,2002,1975.0
+256,Cfa Franc,Guinea Bissau,XOF,2002,756.23
+257,Dollar,Guyana,GYD,2002,188.0
+258,Gourde,Haiti,HTG,2002,26.5
+259,Lempira,Honduras,HNL,2002,16.06
+260,Dollar,Hong Kong,HKD,2002,7.8
+261,Forint,Hungary,HUF,2002,282.95
+262,Krona,Iceland,ISK,2002,100.47
+263,Rupee,India,INR,2002,48.55
+264,Rupiah,Indonesia,IDR,2002,10160.0
+265,Rial,Iran,IRR,2002,1.15
+266,Dinar,Iraq,IQD,2002,1.15
+267,Euro,Ireland,EUR,2002,1.15
+268,Shekel,Israel,ILS,2002,4.67
+269,Euro,Italy,EUR,2002,1.15
+270,Cfa Franc,Ivory Coast,XOF,2002,756.23
+271,Dollar,Jamaica,JMD,2002,47.3
+272,Yen,Japan,JPY,2002,133.84
+273,Dinar,Jordan,JOD,2002,0.71
+274,Tenge,Kazakhstan,KZT,2002,152.3
+275,Shilling,Kenya,KES,2002,77.9
+276,Won,Korea,KRW,2002,1313.8
+277,Dinar,Kuwait,KWD,2002,0.31
+278,Som,Kyrgyzstan,KGS,2002,48.4
+279,Kip,Laos,LAK,2002,9465.0
+280,Euro,Latvia,EUR,2002,0.64
+281,Pound,Lebanon,LBP,2002,1513.75
+282,South African Rand,Lesotho,LSL,2002,11.34
+283,U.S. Dollar,Liberia,LRD,2002,49.0
+284,Dinar,Libya,LYD,2002,3.98
+285,Euro,Lithuania,EUR,2002,3.98
+286,Euro,Luxembourg,EUR,2002,1.15
+287,Mop,Macao,MOP,2002,68.5
+288,Denar,North Macedonia,MKD,2002,68.5
+289,Ariary,Madagascar,MGA,2002,6732.0
+290,Kwacha,Malawi,MWK,2002,71.65
+291,Ringgit,Malaysia,MYR,2002,3.8
+292,Cfa Franc,Mali,XOF,2002,756.23
+293,Euro,Malta,EUR,2002,0.46
+294,Dollar,Marshalls Islands,USD,2002,1.0
+295,Euro,Martinique,EUR,2002,7.56
+296,Ouguiya,Mauritania,MRU,2002,276.96
+297,Rupee,Mauritius,MUR,2002,30.1
+298,Peso,Mexico,MXN,2002,9.12
+299,Dollar,Micronesia,USD,2002,1.0
+300,Leu,Moldova,MDL,2002,12.86
+301,Tugrik,Mongolia,MNT,2002,1104.0
+302,Euro,Montenegro,EUR,2002,11.7
+303,Dirham,Morocco,MAD,2002,11.7
+304,Metical,Mozambique,MZN,2002,23250.0
+305,Dollar,Namibia,NAD,2002,11.34
+306,Rupee,Nepal,NPR,2002,77.35
+307,Euro,Netherlands,EUR,2002,1.15
+308,Guilder,Netherlands Antilles,EUR,2002,1.78
+309,Dollar,New Zealand,NZD,2002,2.37
+310,Cordoba,Nicaragua,NIO,2002,13.86
+311,Cfa Franc,Niger,XOF,2002,756.23
+312,Naira,Nigeria,NGN,2002,117.3
+313,Krone,Norway,NOK,2002,8.9
+314,Rial,Oman,OMR,2002,0.38
+315,Rupee,Pakistan,PKR,2002,58.0
+316,Dollar,Palau,USD,2002,1.0
+317,Balboa,Panama,PAB,2002,1.0
+318,Kina,Papua New Guinea,PGK,2002,3.58
+319,Guarani,Paraguay,PYG,2002,4920.0
+320,Nuevo Sol,Peru,PEN,2002,3.47
+321,Peso,Philippines,PHP,2002,51.15
+322,Zloty,Poland,PLN,2002,4.22
+323,Euro,Portugal,EUR,2002,1.15
+324,Riyal,Qatar,QAR,2002,3.64
+325,Dollar,Republic Of Palau,USD,2002,1.0
+326,Leu,Romania,RON,2002,32566.0
+327,Ruble,Russia,RUB,2002,459.74
+328,Franc,Rwanda,RWF,2002,459.74
+329,Dobras,Sao Tome & Principe,STN,2002,9015.29
+330,Riyal,Saudi Arabia,SAR,2002,3.75
+331,Cfa Franc,Senegal,XOF,2002,756.23
+332,Dinar,Serbia,RSD,2002,5.73
+333,Rupee,Seychelles,SCR,2002,5.73
+334,Leone,Sierra Leone,SLE,2002,2130.0
+335,Dollar,Singapore,SGD,2002,1.83
+336,Korun,Slovakia,EUR,2002,48.03
+337,Euro,Slovenia,EUR,2002,257.24
+338,Dollar,Solomon Islands,SBD,2002,5.04
+339,Rand,South Africa,ZAR,2002,11.34
+340,Pound,South Sudanese,SSP,2002,30.96
+341,Euro,Spain,EUR,2002,1.15
+342,Rupee,Sri Lanka,LKR,2002,93.45
+343,Sudanese Pound,Sudan,SDG,2002,260.0
+344,Guilder,Suriname,SRD,2002,2255.0
+345,Lilangeni,Swaziland,SZL,2002,11.34
+346,Krona,Sweden,SEK,2002,10.46
+347,Franc,Switzerland,CHF,2002,1.7
+348,Pound,Syria,SYP,2002,46.0
+349,Dollar,Taiwan,TWD,2002,35.01
+350,Ruble,Tajikistan,TJS,2002,2.7
+351,Shilling,Tanzania,TZS,2002,961.0
+352,Baht,Thailand,THB,2002,43.68
+353,Dili,Timor Leste,USD,2002,756.23
+354,Cfa Franc,Togo,XOF,2002,756.23
+355,Pa'Anga,Tonga,TOP,2002,2.19
+356,Dollar,Trinidad & Tobago,TTD,2002,6.11
+357,Dinar,Tunisia,TND,2002,1.49
+358,Lira,Turkey,TRY,2002,1393000.0
+359,Ruble,Turkmenistan,TMT,2002,5250.0
+360,Shilling,Uganda,UGX,2002,1740.0
+361,Hryvnia,Ukraine,UAH,2002,5.28
+362,Dirham,United Arab Emirates,AED,2002,3.67
+363,Pound Sterling,United Kingdom,GBP,2002,0.71
+364,Peso,Uruguay,UYU,2002,14.12
+365,Som,Uzbekistan,UZS,2002,960.0
+366,Vatu,Vanuatu,VUV,2002,145.89
+367,Bolivar,Venezuela,VED,2002,1015.0
+368,Dong,Vietnam,VND,2002,15139.0
+369,Tala,Western Samoa,USD,2002,3.48
+370,Rial,Yemen,YER,2002,173.0
+371,Dinar,Yugoslavia,RSD,2002,66.8
+372,Kwacha,Zambia,ZMW,2002,4300.0
+373,Dollar,Zimbabwe,ZWL,2002,330.0
+374,Afghani,Afghanistan,ANF,2003,40.3
+375,Lek,Albania,ALL,2003,129.86
+376,Dinar,Algeria,DZD,2003,80.86
+377,Kwanza,Angola,AOA,2003,62.55
+378,E. Caribbean Dollar,Antigua-Barbuda,XCD,2003,2.7
+379,Peso,Argentina,ARS,2003,3.19
+380,Dram,Armenia,AMD,2003,590.0
+381,Dollar,Australia,AUD,2003,1.65
+382,Euro,Austria,EUR,2003,0.93
+383,Manat,Azerbaijan,AZN,2003,4900.0
+384,Dollar,Bahamas,BSD,2003,1.0
+385,Dinar,Bahrain,BHD,2003,0.38
+386,Taka,Bangladesh,BDT,2003,58.0
+387,Dollar,Barbados,BBD,2003,2.02
+388,Ruble,Belarus,BYN,2003,1967.0
+389,Euro,Belgium,EUR,2003,0.93
+390,Dollar,Belize,BZD,2003,2.2
+391,Cfa Franc,Benin,XOF,2003,607.57
+392,Dollar,Bermuda,BMD,2003,1.0
+393,Boliviano,Bolivia,BOB,2003,7.56
+394,Marka,Bosnia-Hercegovina,BAM,2003,1.82
+395,Pula,Botswana,BWP,2003,5.46
+396,Real,Brazil,BRL,2003,3.56
+397,Dollar,Brunei,BND,2003,1.74
+398,Lev,Bulgaria,BGN,2003,1.81
+399,Cfa Franc,Burkina Faso,XOF,2003,607.57
+400,Kyat,Burma-Myanmar,MMK,2003,450.0
+401,Franc,Burundi,BIF,2003,1060.4
+402,Riel,Cambodia,KHR,2003,3930.0
+403,Cfa Franc,Cameroon,XAF,2003,607.57
+404,Dollar,Canada,CAD,2003,1.49
+405,Escudo,Cape Verde,CVE,2003,100.97
+406,Dollar,Cayman Islands,KYD,2003,607.57
+407,Cfa Franc,Central African Republic,XAF,2003,607.57
+408,Cfa Franc,Chad,XAF,2003,607.57
+409,Peso,Chile,CLP,2003,749.85
+410,Renminbi,China,CNY,2003,8.26
+411,Peso,Colombia,COP,2003,2957.5
+412,Franc,Comoros,KMF,2003,557.15
+413,Cfa Franc,Congo,XAF,2003,607.57
+414,Congolese Franc,"Congo, Dem. Rep",CDF,2003,422.5
+415,Colon,Costa Rica,CRC,2003,385.05
+416,Kuna,Croatia,EUR,2003,7.05
+417,Peso,Cuba,CUP,2003,0.54
+418,Euro,Cyprus,EUR,2003,0.54
+419,Koruna,Czechia,CZK,2003,28.89
+420,Krone,Denmark,DKK,2003,6.88
+421,Franc,Djibouti,DJF,2003,176.95
+422,Peso,Dominican Republic,DOP,2003,22.5
+423,Dollar,Ecuador,USD,2003,1.0
+424,Pound,Egypt,EGP,2003,5.56
+425,Colon,El Salvador,SVC,2003,1.0
+426,Cfa Franc,Equatorial Guinea,XAF,2003,607.57
+427,Nakfa,Eritrea,ERN,2003,13.55
+428,Euro,Estonia,EUR,2003,14.46
+429,Birr,Ethiopia,ETB,2003,8.58
+430,Euro,Euro Zone,EUR,2003,0.93
+431,Dollar,Fiji,FJD,2003,1.96
+432,Euro,Finland,EUR,2003,0.93
+433,Euro,France,EUR,2003,0.93
+434,Cfa Franc,Gabon,XAF,2003,607.57
+435,Dalasi,Gambia,GMD,2003,24.0
+436,Lari,Georgia,GEL,2003,2.18
+437,Euro,Germany,EUR,2003,0.93
+438,Cedi,Ghana,GHS,2003,8525.0
+439,Euro,Greece,EUR,2003,0.93
+440,E. Caribbean Dollar,Grenada,XCD,2003,2.7
+441,Quentzal,Guatemala,GTQ,2003,7.86
+442,Franc,Guinea,GNF,2003,1975.0
+443,Cfa Franc,Guinea Bissau,XOF,2003,607.57
+444,Dollar,Guyana,GYD,2003,194.0
+445,Gourde,Haiti,HTG,2003,41.0
+446,Lempira,Honduras,HNL,2003,17.0
+447,Dollar,Hong Kong,HKD,2003,7.8
+448,Forint,Hungary,HUF,2003,225.09
+449,Krona,Iceland,ISK,2003,77.7
+450,Rupee,India,INR,2003,47.52
+451,Rupiah,Indonesia,IDR,2003,8845.0
+452,Rial,Iran,IRR,2003,0.93
+453,Dinar,Iraq,IQD,2003,0.93
+454,Euro,Ireland,EUR,2003,0.93
+455,Shekel,Israel,ILS,2003,4.81
+456,Euro,Italy,EUR,2003,0.93
+457,Cfa Franc,Ivory Coast,XOF,2003,607.57
+458,Dollar,Jamaica,JMD,2003,54.0
+459,Yen,Japan,JPY,2003,118.08
+460,Dinar,Jordan,JOD,2003,0.71
+461,Tenge,Kazakhstan,KZT,2003,154.0
+462,Shilling,Kenya,KES,2003,76.45
+463,Won,Korea,KRW,2003,1193.6
+464,Dinar,Kuwait,KWD,2003,0.3
+465,Som,Kyrgyzstan,KGS,2003,46.1
+466,Kip,Laos,LAK,2003,10660.0
+467,Euro,Latvia,EUR,2003,0.58
+468,Pound,Lebanon,LBP,2003,1501.0
+469,South African Rand,Lesotho,LSL,2003,8.12
+470,U.S. Dollar,Liberia,LRD,2003,49.0
+471,Dinar,Libya,LYD,2003,3.2
+472,Euro,Lithuania,EUR,2003,3.2
+473,Euro,Luxembourg,EUR,2003,0.93
+474,Mop,Macao,MOP,2003,56.7
+475,Denar,North Macedonia,MKD,2003,56.7
+476,Ariary,Madagascar,MGA,2003,6250.0
+477,Kwacha,Malawi,MWK,2003,90.09
+478,Ringgit,Malaysia,MYR,2003,3.8
+479,Cfa Franc,Mali,XOF,2003,607.57
+480,Euro,Malta,EUR,2003,0.39
+481,Dollar,Marshalls Islands,USD,2003,1.0
+482,Euro,Martinique,EUR,2003,276.96
+483,Ouguiya,Mauritania,MRU,2003,276.96
+484,Rupee,Mauritius,MUR,2003,27.33
+485,Peso,Mexico,MXN,2003,11.05
+486,Dollar,Micronesia,USD,2003,1.0
+487,Leu,Moldova,MDL,2003,14.27
+488,Tugrik,Mongolia,MNT,2003,1126.0
+489,Euro,Montenegro,EUR,2003,9.87
+490,Dirham,Morocco,MAD,2003,9.87
+491,Metical,Mozambique,MZN,2003,23726.0
+492,Dollar,Namibia,NAD,2003,8.12
+493,Rupee,Nepal,NPR,2003,77.8
+494,Euro,Netherlands,EUR,2003,0.93
+495,Guilder,Netherlands Antilles,EUR,2003,1.78
+496,Dollar,New Zealand,NZD,2003,1.79
+497,Cordoba,Nicaragua,NIO,2003,14.74
+498,Cfa Franc,Niger,XOF,2003,607.57
+499,Naira,Nigeria,NGN,2003,127.8
+500,Krone,Norway,NOK,2003,7.15
+501,Rial,Oman,OMR,2003,0.38
+502,Rupee,Pakistan,PKR,2003,58.0
+503,Dollar,Palau,USD,2003,1.0
+504,Balboa,Panama,PAB,2003,1.0
+505,Kina,Papua New Guinea,PGK,2003,3.58
+506,Guarani,Paraguay,PYG,2003,6850.0
+507,Nuevo Sol,Peru,PEN,2003,3.48
+508,Peso,Philippines,PHP,2003,54.45
+509,Zloty,Poland,PLN,2003,3.91
+510,Euro,Portugal,EUR,2003,0.96
+511,Riyal,Qatar,QAR,2003,3.64
+512,Dollar,Republic Of Palau,USD,2003,1.0
+513,Leu,Romania,RON,2003,32920.0
+514,Ruble,Russia,RUB,2003,510.87
+515,Franc,Rwanda,RWF,2003,510.87
+516,Dobras,Sao Tome & Principe,STN,2003,9053.44
+517,Riyal,Saudi Arabia,SAR,2003,3.75
+518,Cfa Franc,Senegal,XOF,2003,607.57
+519,Dinar,Serbia,RSD,2003,5.62
+520,Rupee,Seychelles,SCR,2003,5.62
+521,Leone,Sierra Leone,SLE,2003,2200.0
+522,Dollar,Singapore,SGD,2003,1.74
+523,Korun,Slovakia,EUR,2003,38.74
+524,Euro,Slovenia,EUR,2003,214.67
+525,Dollar,Solomon Islands,SBD,2003,5.04
+526,Rand,South Africa,ZAR,2003,8.12
+527,Pound,South Sudanese,SSP,2003,31.57
+528,Euro,Spain,EUR,2003,0.93
+529,Rupee,Sri Lanka,LKR,2003,96.86
+530,Sudanese Pound,Sudan,SDG,2003,260.0
+531,Guilder,Suriname,SRD,2003,2750.0
+532,Lilangeni,Swaziland,SZL,2003,8.12
+533,Krona,Sweden,SEK,2003,8.47
+534,Franc,Switzerland,CHF,2003,1.36
+535,Pound,Syria,SYP,2003,51.5
+536,Dollar,Taiwan,TWD,2003,34.72
+537,Ruble,Tajikistan,TJS,2003,3.1
+538,Shilling,Tanzania,TZS,2003,1027.0
+539,Baht,Thailand,THB,2003,42.77
+540,Dili,Timor Leste,USD,2003,607.57
+541,Cfa Franc,Togo,XOF,2003,607.57
+542,Pa'Anga,Tonga,TOP,2003,2.16
+543,Dollar,Trinidad & Tobago,TTD,2003,6.05
+544,Dinar,Tunisia,TND,2003,1.32
+545,Lira,Turkey,TRY,2003,1595000.0
+546,Ruble,Turkmenistan,TMT,2003,5250.0
+547,Shilling,Uganda,UGX,2003,1905.0
+548,Hryvnia,Ukraine,UAH,2003,5.32
+549,Dirham,United Arab Emirates,AED,2003,3.67
+550,Pound Sterling,United Kingdom,GBP,2003,0.63
+551,Peso,Uruguay,UYU,2003,28.25
+552,Som,Uzbekistan,UZS,2003,1000.0
+553,Vatu,Vanuatu,VUV,2003,127.0
+554,Bolivar,Venezuela,VED,2003,1600.0
+555,Dong,Vietnam,VND,2003,15426.0
+556,Tala,Western Samoa,USD,2003,3.05
+557,Rial,Yemen,YER,2003,182.0
+558,Dinar,Yugoslavia,RSD,2003,57.71
+559,Kwacha,Zambia,ZMW,2003,4950.0
+560,Dollar,Zimbabwe,ZWL,2003,1420.0
+561,Afghani,Afghanistan,ANF,2004,49.87
+562,Lek,Albania,ALL,2004,106.2
+563,Dinar,Algeria,DZD,2004,71.49
+564,Kwanza,Angola,AOA,2004,79.97
+565,E. Caribbean Dollar,Antigua-Barbuda,XCD,2004,2.7
+566,Peso,Argentina,ARS,2004,2.84
+567,Dram,Armenia,AMD,2004,563.0
+568,Dollar,Australia,AUD,2004,1.31
+569,Euro,Austria,EUR,2004,0.82
+570,Manat,Azerbaijan,AZN,2004,4950.0
+571,Dollar,Bahamas,BSD,2004,1.0
+572,Dinar,Bahrain,BHD,2004,0.38
+573,Taka,Bangladesh,BDT,2004,58.0
+574,Dollar,Barbados,BBD,2004,2.02
+575,Ruble,Belarus,BYN,2004,2151.0
+576,Euro,Belgium,EUR,2004,0.82
+577,Dollar,Belize,BZD,2004,2.2
+578,Cfa Franc,Benin,XOF,2004,535.04
+579,Dollar,Bermuda,BMD,2004,1.0
+580,Boliviano,Bolivia,BOB,2004,7.89
+581,Marka,Bosnia-Hercegovina,BAM,2004,1.6
+582,Pula,Botswana,BWP,2004,4.65
+583,Real,Brazil,BRL,2004,2.91
+584,Dollar,Brunei,BND,2004,1.68
+585,Lev,Bulgaria,BGN,2004,1.59
+586,Cfa Franc,Burkina Faso,XOF,2004,535.04
+587,Kyat,Burma-Myanmar,MMK,2004,450.0
+588,Franc,Burundi,BIF,2004,1080.3
+589,Riel,Cambodia,KHR,2004,3990.0
+590,Cfa Franc,Cameroon,XAF,2004,535.04
+591,Dollar,Canada,CAD,2004,1.31
+592,Escudo,Cape Verde,CVE,2004,89.87
+593,Dollar,Cayman Islands,KYD,2004,535.04
+594,Cfa Franc,Central African Republic,XAF,2004,535.04
+595,Cfa Franc,Chad,XAF,2004,535.04
+596,Peso,Chile,CLP,2004,617.6
+597,Renminbi,China,CNY,2004,8.26
+598,Peso,Colombia,COP,2004,2682.3
+599,Franc,Comoros,KMF,2004,557.15
+600,Cfa Franc,Congo,XAF,2004,535.04
+601,Congolese Franc,"Congo, Dem. Rep",CDF,2004,382.5
+602,Colon,Costa Rica,CRC,2004,427.77
+603,Kuna,Croatia,EUR,2004,6.0
+604,Peso,Cuba,CUP,2004,0.48
+605,Euro,Cyprus,EUR,2004,0.48
+606,Koruna,Czechia,CZK,2004,26.42
+607,Krone,Denmark,DKK,2004,6.08
+608,Franc,Djibouti,DJF,2004,176.95
+609,Peso,Dominican Republic,DOP,2004,43.0
+610,Dollar,Ecuador,USD,2004,1.0
+611,Pound,Egypt,EGP,2004,6.18
+612,Colon,El Salvador,SVC,2004,1.0
+613,Cfa Franc,Equatorial Guinea,XAF,2004,535.04
+614,Nakfa,Eritrea,ERN,2004,13.55
+615,Euro,Estonia,EUR,2004,12.77
+616,Birr,Ethiopia,ETB,2004,8.63
+617,Euro,Euro Zone,EUR,2004,0.82
+618,Dollar,Fiji,FJD,2004,1.7
+619,Euro,Finland,EUR,2004,0.82
+620,Euro,France,EUR,2004,0.82
+621,Cfa Franc,Gabon,XAF,2004,535.04
+622,Dalasi,Gambia,GMD,2004,29.0
+623,Lari,Georgia,GEL,2004,2.0
+624,Euro,Germany,EUR,2004,0.82
+625,Cedi,Ghana,GHS,2004,8850.0
+626,Euro,Greece,EUR,2004,0.82
+627,E. Caribbean Dollar,Grenada,XCD,2004,2.7
+628,Quentzal,Guatemala,GTQ,2004,8.09
+629,Franc,Guinea,GNF,2004,2000.0
+630,Cfa Franc,Guinea Bissau,XOF,2004,535.04
+631,Dollar,Guyana,GYD,2004,195.41
+632,Gourde,Haiti,HTG,2004,29.0
+633,Lempira,Honduras,HNL,2004,17.96
+634,Dollar,Hong Kong,HKD,2004,7.79
+635,Forint,Hungary,HUF,2004,202.9
+636,Krona,Iceland,ISK,2004,72.1
+637,Rupee,India,INR,2004,43.88
+638,Rupiah,Indonesia,IDR,2004,8500.0
+639,Rial,Iran,IRR,2004,8229.0
+640,Dinar,Iraq,IQD,2004,1421.0
+641,Euro,Ireland,EUR,2004,0.82
+642,Shekel,Israel,ILS,2004,4.52
+643,Euro,Italy,EUR,2004,0.82
+644,Cfa Franc,Ivory Coast,XOF,2004,535.04
+645,Dollar,Jamaica,JMD,2004,60.26
+646,Yen,Japan,JPY,2004,104.02
+647,Dinar,Jordan,JOD,2004,0.71
+648,Tenge,Kazakhstan,KZT,2004,138.8
+649,Shilling,Kenya,KES,2004,77.6
+650,Won,Korea,KRW,2004,1146.2
+651,Dinar,Kuwait,KWD,2004,0.3
+652,Som,Kyrgyzstan,KGS,2004,42.6
+653,Kip,Laos,LAK,2004,10425.0
+654,Euro,Latvia,EUR,2004,0.53
+655,Pound,Lebanon,LBP,2004,1514.0
+656,South African Rand,Lesotho,LSL,2004,6.31
+657,U.S. Dollar,Liberia,LRD,2004,49.0
+658,Dinar,Libya,LYD,2004,2.82
+659,Euro,Lithuania,EUR,2004,2.82
+660,Euro,Luxembourg,EUR,2004,0.82
+661,Mop,Macao,MOP,2004,49.7
+662,Denar,North Macedonia,MKD,2004,49.7
+663,Ariary,Madagascar,MGA,2004,8196.72
+664,Kwacha,Malawi,MWK,2004,107.28
+665,Ringgit,Malaysia,MYR,2004,3.8
+666,Cfa Franc,Mali,XOF,2004,535.04
+667,Euro,Malta,EUR,2004,0.35
+668,Dollar,Marshalls Islands,USD,2004,1.0
+669,Euro,Martinique,EUR,2004,268.42
+670,Ouguiya,Mauritania,MRU,2004,268.42
+671,Rupee,Mauritius,MUR,2004,26.3
+672,Peso,Mexico,MXN,2004,11.16
+673,Dollar,Micronesia,USD,2004,1.0
+674,Leu,Moldova,MDL,2004,11.8
+675,Tugrik,Mongolia,MNT,2004,1179.0
+676,Euro,Montenegro,EUR,2004,8.98
+677,Dirham,Morocco,MAD,2004,8.98
+678,Metical,Mozambique,MZN,2004,23517.0
+679,Dollar,Namibia,NAD,2004,6.31
+680,Rupee,Nepal,NPR,2004,72.85
+681,Euro,Netherlands,EUR,2004,0.82
+682,Guilder,Netherlands Antilles,EUR,2004,1.78
+683,Dollar,New Zealand,NZD,2004,1.5
+684,Cordoba,Nicaragua,NIO,2004,15.65
+685,Cfa Franc,Niger,XOF,2004,535.04
+686,Naira,Nigeria,NGN,2004,130.0
+687,Krone,Norway,NOK,2004,6.88
+688,Rial,Oman,OMR,2004,0.38
+689,Rupee,Pakistan,PKR,2004,57.1
+690,Dollar,Palau,USD,2004,1.0
+691,Balboa,Panama,PAB,2004,1.0
+692,Kina,Papua New Guinea,PGK,2004,3.1
+693,Guarani,Paraguay,PYG,2004,5820.0
+694,Nuevo Sol,Peru,PEN,2004,3.46
+695,Peso,Philippines,PHP,2004,56.1
+696,Zloty,Poland,PLN,2004,3.87
+697,Euro,Portugal,EUR,2004,0.82
+698,Riyal,Qatar,QAR,2004,3.64
+699,Dollar,Republic Of Palau,USD,2004,1.0
+700,Leu,Romania,RON,2004,33388.0
+701,Ruble,Russia,RUB,2004,582.44
+702,Franc,Rwanda,RWF,2004,582.44
+703,Dobras,Sao Tome & Principe,STN,2004,9192.7
+704,Riyal,Saudi Arabia,SAR,2004,3.75
+705,Cfa Franc,Senegal,XOF,2004,535.04
+706,Dinar,Serbia,RSD,2004,5.18
+707,Rupee,Seychelles,SCR,2004,5.18
+708,Leone,Sierra Leone,SLE,2004,2502.06
+709,Dollar,Singapore,SGD,2004,1.67
+710,Korun,Slovakia,EUR,2004,32.73
+711,Euro,Slovenia,EUR,2004,194.47
+712,Dollar,Solomon Islands,SBD,2004,5.04
+713,Rand,South Africa,ZAR,2004,6.31
+714,Pound,South Sudanese,SSP,2004,28.51
+715,Euro,Spain,EUR,2004,0.82
+716,Rupee,Sri Lanka,LKR,2004,97.35
+717,Sudanese Pound,Sudan,SDG,2004,260.45
+718,Guilder,Suriname,SRD,2004,2800.0
+719,Lilangeni,Swaziland,SZL,2004,6.31
+720,Krona,Sweden,SEK,2004,7.56
+721,Franc,Switzerland,CHF,2004,1.27
+722,Pound,Syria,SYP,2004,51.66
+723,Dollar,Taiwan,TWD,2004,32.9
+724,Ruble,Tajikistan,TJS,2004,2.93
+725,Shilling,Tanzania,TZS,2004,1105.5
+726,Baht,Thailand,THB,2004,39.28
+727,Dili,Timor Leste,USD,2004,535.04
+728,Cfa Franc,Togo,XOF,2004,535.04
+729,Pa'Anga,Tonga,TOP,2004,1.95
+730,Dollar,Trinidad & Tobago,TTD,2004,6.15
+731,Dinar,Tunisia,TND,2004,1.25
+732,Lira,Turkey,TRY,2004,1309500.0
+733,Ruble,Turkmenistan,TMT,2004,5200.0
+734,Shilling,Uganda,UGX,2004,1910.0
+735,Hryvnia,Ukraine,UAH,2004,5.32
+736,Dirham,United Arab Emirates,AED,2004,3.67
+737,Pound Sterling,United Kingdom,GBP,2004,0.55
+738,Peso,Uruguay,UYU,2004,29.25
+739,Som,Uzbekistan,UZS,2004,1000.0
+740,Vatu,Vanuatu,VUV,2004,110.91
+741,Bolivar,Venezuela,VED,2004,1920.0
+742,Dong,Vietnam,VND,2004,15717.0
+743,Tala,Western Samoa,USD,2004,2.75
+744,Rial,Yemen,YER,2004,184.0
+745,Dinar,Yugoslavia,RSD,2004,57.66
+746,Kwacha,Zambia,ZMW,2004,4625.0
+747,Dollar,Zimbabwe,ZWL,2004,4381.88
+748,Afghani,Afghanistan,ANF,2005,45.21
+749,Lek,Albania,ALL,2005,95.63
+750,Dinar,Algeria,DZD,2005,73.04
+751,Kwanza,Angola,AOA,2005,86.91
+752,E. Caribbean Dollar,Antigua-Barbuda,XCD,2005,2.7
+753,Peso,Argentina,ARS,2005,2.93
+754,Dram,Armenia,AMD,2005,473.77
+755,Dollar,Australia,AUD,2005,1.26
+756,Euro,Austria,EUR,2005,0.75
+757,Manat,Azerbaijan,AZN,2005,4900.0
+758,Dollar,Bahamas,BSD,2005,1.0
+759,Dinar,Bahrain,BHD,2005,0.38
+760,Taka,Bangladesh,BDT,2005,61.0
+761,Dollar,Barbados,BBD,2005,2.02
+762,Ruble,Belarus,BYN,2005,2161.0
+763,Euro,Belgium,EUR,2005,0.75
+764,Dollar,Belize,BZD,2005,2.2
+765,Cfa Franc,Benin,XOF,2005,493.65
+766,Dollar,Bermuda,BMD,2005,1.0
+767,Boliviano,Bolivia,BOB,2005,8.05
+768,Marka,Bosnia-Hercegovina,BAM,2005,1.47
+769,Pula,Botswana,BWP,2005,4.36
+770,Real,Brazil,BRL,2005,2.58
+771,Dollar,Brunei,BND,2005,1.62
+772,Lev,Bulgaria,BGN,2005,1.47
+773,Cfa Franc,Burkina Faso,XOF,2005,493.65
+774,Kyat,Burma-Myanmar,MMK,2005,450.0
+775,Franc,Burundi,BIF,2005,1113.5
+776,Riel,Cambodia,KHR,2005,4032.0
+777,Cfa Franc,Cameroon,XAF,2005,493.65
+778,Dollar,Canada,CAD,2005,1.23
+779,Escudo,Cape Verde,CVE,2005,82.15
+780,Dollar,Cayman Islands,KYD,2005,493.65
+781,Cfa Franc,Central African Republic,XAF,2005,493.65
+782,Cfa Franc,Chad,XAF,2005,493.65
+783,Peso,Chile,CLP,2005,576.2
+784,Renminbi,China,CNY,2005,8.26
+785,Peso,Colombia,COP,2005,2328.0
+786,Franc,Comoros,KMF,2005,557.15
+787,Cfa Franc,Congo,XAF,2005,493.65
+788,Congolese Franc,"Congo, Dem. Rep",CDF,2005,478.5
+789,Colon,Costa Rica,CRC,2005,464.9
+790,Kuna,Croatia,EUR,2005,5.65
+791,Peso,Cuba,CUP,2005,0.44
+792,Euro,Cyprus,EUR,2005,0.44
+793,Koruna,Czechia,CZK,2005,21.99
+794,Krone,Denmark,DKK,2005,5.61
+795,Franc,Djibouti,DJF,2005,177.0
+796,Peso,Dominican Republic,DOP,2005,28.5
+797,Dollar,Ecuador,USD,2005,1.0
+798,Pound,Egypt,EGP,2005,5.79
+799,Colon,El Salvador,SVC,2005,1.0
+800,Cfa Franc,Equatorial Guinea,XAF,2005,493.65
+801,Nakfa,Eritrea,ERN,2005,15.0
+802,Euro,Estonia,EUR,2005,11.79
+803,Birr,Ethiopia,ETB,2005,8.66
+804,Euro,Euro Zone,EUR,2005,0.75
+805,Dollar,Fiji,FJD,2005,1.64
+806,Euro,Finland,EUR,2005,0.75
+807,Euro,France,EUR,2005,0.75
+808,Cfa Franc,Gabon,XAF,2005,493.65
+809,Dalasi,Gambia,GMD,2005,29.0
+810,Lari,Georgia,GEL,2005,1.83
+811,Euro,Germany,EUR,2005,0.75
+812,Cedi,Ghana,GHS,2005,9020.0
+813,Euro,Greece,EUR,2005,0.75
+814,E. Caribbean Dollar,Grenada,XCD,2005,2.7
+815,Quentzal,Guatemala,GTQ,2005,7.66
+816,Franc,Guinea,GNF,2005,3328.0
+817,Cfa Franc,Guinea Bissau,XOF,2005,493.65
+818,Dollar,Guyana,GYD,2005,203.0
+819,Gourde,Haiti,HTG,2005,36.25
+820,Lempira,Honduras,HNL,2005,18.74
+821,Dollar,Hong Kong,HKD,2005,7.8
+822,Forint,Hungary,HUF,2005,182.04
+823,Krona,Iceland,ISK,2005,60.49
+824,Rupee,India,INR,2005,43.45
+825,Rupiah,Indonesia,IDR,2005,9200.0
+826,Rial,Iran,IRR,2005,8229.0
+827,Dinar,Iraq,IQD,2005,1459.0
+828,Euro,Ireland,EUR,2005,0.75
+829,Shekel,Israel,ILS,2005,4.35
+830,Euro,Italy,EUR,2005,0.75
+831,Cfa Franc,Ivory Coast,XOF,2005,493.65
+832,Dollar,Jamaica,JMD,2005,61.61
+833,Yen,Japan,JPY,2005,104.26
+834,Dinar,Jordan,JOD,2005,0.71
+835,Tenge,Kazakhstan,KZT,2005,130.3
+836,Shilling,Kenya,KES,2005,75.9
+837,Won,Korea,KRW,2005,1006.0
+838,Dinar,Kuwait,KWD,2005,0.29
+839,Som,Kyrgyzstan,KGS,2005,41.2
+840,Kip,Laos,LAK,2005,10305.0
+841,Euro,Latvia,EUR,2005,0.52
+842,Pound,Lebanon,LBP,2005,1513.0
+843,South African Rand,Lesotho,LSL,2005,5.77
+844,U.S. Dollar,Liberia,LRD,2005,49.0
+845,Dinar,Libya,LYD,2005,2.6
+846,Euro,Lithuania,EUR,2005,2.6
+847,Euro,Luxembourg,EUR,2005,0.75
+848,Mop,Macao,MOP,2005,47.7
+849,Denar,North Macedonia,MKD,2005,47.7
+850,Ariary,Madagascar,MGA,2005,9447.0
+851,Kwacha,Malawi,MWK,2005,106.0
+852,Ringgit,Malaysia,MYR,2005,3.8
+853,Cfa Franc,Mali,XOF,2005,493.65
+854,Euro,Malta,EUR,2005,0.33
+855,Dollar,Marshalls Islands,USD,2005,1.0
+856,Euro,Martinique,EUR,2005,0.75
+857,Ouguiya,Mauritania,MRU,2005,269.8
+858,Rupee,Mauritius,MUR,2005,28.45
+859,Peso,Mexico,MXN,2005,11.09
+860,Dollar,Micronesia,USD,2005,1.0
+861,Leu,Moldova,MDL,2005,12.6
+862,Tugrik,Mongolia,MNT,2005,1210.0
+863,Euro,Montenegro,EUR,2005,8.5
+864,Dirham,Morocco,MAD,2005,8.5
+865,Metical,Mozambique,MZN,2005,20885.0
+866,Dollar,Namibia,NAD,2005,5.77
+867,Rupee,Nepal,NPR,2005,70.7
+868,Euro,Netherlands,EUR,2005,0.75
+869,Guilder,Netherlands Antilles,EUR,2005,1.78
+870,Dollar,New Zealand,NZD,2005,1.37
+871,Cordoba,Nicaragua,NIO,2005,16.24
+872,Cfa Franc,Niger,XOF,2005,493.65
+873,Naira,Nigeria,NGN,2005,130.0
+874,Krone,Norway,NOK,2005,6.19
+875,Rial,Oman,OMR,2005,0.38
+876,Rupee,Pakistan,PKR,2005,59.31
+877,Dollar,Palau,USD,2005,1.0
+878,Balboa,Panama,PAB,2005,1.0
+879,Kina,Papua New Guinea,PGK,2005,3.0
+880,Guarani,Paraguay,PYG,2005,6250.0
+881,Nuevo Sol,Peru,PEN,2005,3.26
+882,Peso,Philippines,PHP,2005,54.6
+883,Zloty,Poland,PLN,2005,3.24
+884,Euro,Portugal,EUR,2005,0.75
+885,Riyal,Qatar,QAR,2005,3.64
+886,Dollar,Republic Of Palau,USD,2005,1.0
+887,Leu,Romania,RON,2005,27349.0
+888,Ruble,Russia,RUB,2005,564.12
+889,Franc,Rwanda,RWF,2005,564.12
+890,Dobras,Sao Tome & Principe,STN,2005,9192.7
+891,Riyal,Saudi Arabia,SAR,2005,3.75
+892,Cfa Franc,Senegal,XOF,2005,493.65
+893,Dinar,Serbia,RSD,2005,5.2
+894,Rupee,Seychelles,SCR,2005,5.2
+895,Leone,Sierra Leone,SLE,2005,2850.0
+896,Dollar,Singapore,SGD,2005,1.62
+897,Korun,Slovakia,EUR,2005,28.5
+898,Euro,Slovenia,EUR,2005,180.55
+899,Dollar,Solomon Islands,SBD,2005,7.14
+900,Rand,South Africa,ZAR,2005,5.77
+901,Pound,South Sudanese,SSP,2005,27.67
+902,Euro,Spain,EUR,2005,0.75
+903,Rupee,Sri Lanka,LKR,2005,99.45
+904,Sudanese Pound,Sudan,SDG,2005,255.0
+905,Guilder,Suriname,SRD,2005,2.8
+906,Lilangeni,Swaziland,SZL,2005,5.77
+907,Krona,Sweden,SEK,2005,6.82
+908,Franc,Switzerland,CHF,2005,1.16
+909,Pound,Syria,SYP,2005,52.25
+910,Dollar,Taiwan,TWD,2005,31.06
+911,Ruble,Tajikistan,TJS,2005,3.05
+912,Shilling,Tanzania,TZS,2005,1103.0
+913,Baht,Thailand,THB,2005,38.26
+914,Dili,Timor Leste,USD,2005,493.65
+915,Cfa Franc,Togo,XOF,2005,493.65
+916,Pa'Anga,Tonga,TOP,2005,1.88
+917,Dollar,Trinidad & Tobago,TTD,2005,6.24
+918,Dinar,Tunisia,TND,2005,1.22
+919,Lira,Turkey,TRY,2005,1276000.0
+920,Ruble,Turkmenistan,TMT,2005,5148.0
+921,Shilling,Uganda,UGX,2005,1685.0
+922,Hryvnia,Ukraine,UAH,2005,5.28
+923,Dirham,United Arab Emirates,AED,2005,3.67
+924,Pound Sterling,United Kingdom,GBP,2005,0.52
+925,Peso,Uruguay,UYU,2005,25.3
+926,Som,Uzbekistan,UZS,2005,1068.0
+927,Vatu,Vanuatu,VUV,2005,106.23
+928,Bolivar,Venezuela,VED,2005,2150.0
+929,Dong,Vietnam,VND,2005,15798.0
+930,Tala,Western Samoa,USD,2005,2.6
+931,Rial,Yemen,YER,2005,187.0
+932,Dinar,Yugoslavia,RSD,2005,61.04
+933,Kwacha,Zambia,ZMW,2005,4600.0
+934,Dollar,Zimbabwe,ZWL,2005,6472.0
+935,Afghani,Afghanistan,ANF,2006,50.3
+936,Lek,Albania,ALL,2006,102.89
+937,Dinar,Algeria,DZD,2006,72.37
+938,Kwanza,Angola,AOA,2006,80.71
+939,E. Caribbean Dollar,Antigua-Barbuda,XCD,2006,2.7
+940,Peso,Argentina,ARS,2006,3.07
+941,Dram,Armenia,AMD,2006,456.0
+942,Dollar,Australia,AUD,2006,1.35
+943,Euro,Austria,EUR,2006,0.84
+944,Manat,Azerbaijan,AZN,2006,4600.0
+945,Dollar,Bahamas,BSD,2006,1.0
+946,Dinar,Bahrain,BHD,2006,0.38
+947,Taka,Bangladesh,BDT,2006,70.0
+948,Dollar,Barbados,BBD,2006,2.02
+949,Ruble,Belarus,BYN,2006,2144.0
+950,Euro,Belgium,EUR,2006,0.84
+951,Dollar,Belize,BZD,2006,2.0
+952,Cfa Franc,Benin,XOF,2006,551.17
+953,Dollar,Bermuda,BMD,2006,1.0
+954,Boliviano,Bolivia,BOB,2006,7.95
+955,Marka,Bosnia-Hercegovina,BAM,2006,1.65
+956,Pula,Botswana,BWP,2006,5.44
+957,Real,Brazil,BRL,2006,2.13
+958,Dollar,Brunei,BND,2006,1.62
+959,Lev,Bulgaria,BGN,2006,1.65
+960,Cfa Franc,Burkina Faso,XOF,2006,551.17
+961,Kyat,Burma-Myanmar,MMK,2006,450.0
+962,Franc,Burundi,BIF,2006,1022.0
+963,Riel,Cambodia,KHR,2006,4112.0
+964,Cfa Franc,Cameroon,XAF,2006,551.17
+965,Dollar,Canada,CAD,2006,1.14
+966,Escudo,Cape Verde,CVE,2006,90.7
+967,Dollar,Cayman Islands,KYD,2006,551.17
+968,Cfa Franc,Central African Republic,XAF,2006,551.17
+969,Cfa Franc,Chad,XAF,2006,551.17
+970,Peso,Chile,CLP,2006,516.7
+971,Renminbi,China,CNY,2006,8.04
+972,Peso,Colombia,COP,2006,2554.9
+973,Franc,Comoros,KMF,2006,557.15
+974,Cfa Franc,Congo,XAF,2006,551.17
+975,Congolese Franc,"Congo, Dem. Rep",CDF,2006,442.5
+976,Colon,Costa Rica,CRC,2006,502.22
+977,Kuna,Croatia,EUR,2006,6.12
+978,Peso,Cuba,CUP,2006,0.93
+979,Euro,Cyprus,EUR,2006,0.48
+980,Koruna,Czechia,CZK,2006,23.45
+981,Krone,Denmark,DKK,2006,6.28
+982,Franc,Djibouti,DJF,2006,177.0
+983,Peso,Dominican Republic,DOP,2006,32.5
+984,Dollar,Ecuador,USD,2006,1.0
+985,Pound,Egypt,EGP,2006,5.73
+986,Colon,El Salvador,SVC,2006,1.0
+987,Cfa Franc,Equatorial Guinea,XAF,2006,551.17
+988,Nakfa,Eritrea,ERN,2006,15.0
+989,Euro,Estonia,EUR,2006,13.16
+990,Birr,Ethiopia,ETB,2006,8.68
+991,Euro,Euro Zone,EUR,2006,0.84
+992,Dollar,Fiji,FJD,2006,1.75
+993,Euro,Finland,EUR,2006,0.84
+994,Euro,France,EUR,2006,0.84
+995,Cfa Franc,Gabon,XAF,2006,551.17
+996,Dalasi,Gambia,GMD,2006,28.0
+997,Lari,Georgia,GEL,2006,1.82
+998,Euro,Germany,EUR,2006,0.84
+999,Cedi,Ghana,GHS,2006,9095.0
+1000,Euro,Greece,EUR,2006,0.84
+1001,E. Caribbean Dollar,Grenada,XCD,2006,2.7
+1002,Quentzal,Guatemala,GTQ,2006,7.58
+1003,Franc,Guinea,GNF,2006,4602.0
+1004,Cfa Franc,Guinea Bissau,XOF,2006,551.17
+1005,Dollar,Guyana,GYD,2006,201.3
+1006,Gourde,Haiti,HTG,2006,37.9
+1007,Lempira,Honduras,HNL,2006,18.95
+1008,Dollar,Hong Kong,HKD,2006,7.76
+1009,Forint,Hungary,HUF,2006,212.9
+1010,Krona,Iceland,ISK,2006,75.19
+1011,Rupee,India,INR,2006,44.35
+1012,Rupiah,Indonesia,IDR,2006,9150.0
+1013,Rial,Iran,IRR,2006,8229.0
+1014,Dinar,Iraq,IQD,2006,1469.2
+1015,Euro,Ireland,EUR,2006,0.84
+1016,Shekel,Israel,ILS,2006,4.7
+1017,Euro,Italy,EUR,2006,0.84
+1018,Cfa Franc,Ivory Coast,XOF,2006,551.17
+1019,Dollar,Jamaica,JMD,2006,64.17
+1020,Yen,Japan,JPY,2006,116.17
+1021,Dinar,Jordan,JOD,2006,0.71
+1022,Tenge,Kazakhstan,KZT,2006,131.3
+1023,Shilling,Kenya,KES,2006,72.6
+1024,Won,Korea,KRW,2006,970.9
+1025,Dinar,Kuwait,KWD,2006,0.29
+1026,Som,Kyrgyzstan,KGS,2006,41.2
+1027,Kip,Laos,LAK,2006,10441.0
+1028,Euro,Latvia,EUR,2006,0.59
+1029,Pound,Lebanon,LBP,2006,1501.0
+1030,South African Rand,Lesotho,LSL,2006,6.88
+1031,U.S. Dollar,Liberia,LRD,2006,49.0
+1032,Dinar,Libya,LYD,2006,1.34
+1033,Euro,Lithuania,EUR,2006,2.9
+1034,Euro,Luxembourg,EUR,2006,0.84
+1035,Mop,Macao,MOP,2006,51.9
+1036,Denar,North Macedonia,MKD,2006,51.9
+1037,Ariary,Madagascar,MGA,2006,2200.09
+1038,Kwacha,Malawi,MWK,2006,134.0
+1039,Ringgit,Malaysia,MYR,2006,3.71
+1040,Cfa Franc,Mali,XOF,2006,551.17
+1041,Euro,Malta,EUR,2006,0.36
+1042,Dollar,Marshalls Islands,USD,2006,1.0
+1043,Euro,Martinique,EUR,2006,0.82
+1044,Ouguiya,Mauritania,MRU,2006,268.51
+1045,Rupee,Mauritius,MUR,2006,30.5
+1046,Peso,Mexico,MXN,2006,10.45
+1047,Dollar,Micronesia,USD,2006,1.0
+1048,Leu,Moldova,MDL,2006,13.0
+1049,Tugrik,Mongolia,MNT,2006,1200.0
+1050,Euro,Montenegro,EUR,2006,9.24
+1051,Dirham,Morocco,MAD,2006,9.24
+1052,Metical,Mozambique,MZN,2006,26588.0
+1053,Dollar,Namibia,NAD,2006,6.17
+1054,Rupee,Nepal,NPR,2006,71.45
+1055,Euro,Netherlands,EUR,2006,0.84
+1056,Guilder,Netherlands Antilles,EUR,2006,1.78
+1057,Dollar,New Zealand,NZD,2006,1.51
+1058,Cordoba,Nicaragua,NIO,2006,17.27
+1059,Cfa Franc,Niger,XOF,2006,551.17
+1060,Naira,Nigeria,NGN,2006,127.5
+1061,Krone,Norway,NOK,2006,6.07
+1062,Rial,Oman,OMR,2006,0.38
+1063,Rupee,Pakistan,PKR,2006,59.85
+1064,Dollar,Palau,USD,2006,1.0
+1065,Balboa,Panama,PAB,2006,1.0
+1066,Kina,Papua New Guinea,PGK,2006,2.89
+1067,Guarani,Paraguay,PYG,2006,5990.0
+1068,Nuevo Sol,Peru,PEN,2006,3.29
+1069,Peso,Philippines,PHP,2006,51.59
+1070,Zloty,Poland,PLN,2006,3.18
+1071,Euro,Portugal,EUR,2006,0.84
+1072,Riyal,Qatar,QAR,2006,3.64
+1073,Dollar,Republic Of Palau,USD,2006,1.0
+1074,Leu,Romania,RON,2006,29305.0
+1075,Ruble,Russia,RUB,2006,553.12
+1076,Franc,Rwanda,RWF,2006,553.12
+1077,Dobras,Sao Tome & Principe,STN,2006,11925.71
+1078,Riyal,Saudi Arabia,SAR,2006,3.75
+1079,Cfa Franc,Senegal,XOF,2006,551.17
+1080,Dinar,Serbia,RSD,2006,5.2
+1081,Rupee,Seychelles,SCR,2006,5.2
+1082,Leone,Sierra Leone,SLE,2006,2975.0
+1083,Dollar,Singapore,SGD,2006,1.62
+1084,Korun,Slovakia,EUR,2006,31.2
+1085,Euro,Slovenia,EUR,2006,201.45
+1086,Dollar,Solomon Islands,SBD,2006,6.99
+1087,Rand,South Africa,ZAR,2006,6.17
+1088,Pound,South Sudanese,SSP,2006,28.08
+1089,Euro,Spain,EUR,2006,0.84
+1090,Rupee,Sri Lanka,LKR,2006,102.48
+1091,Sudanese Pound,Sudan,SDG,2006,230.0
+1092,Guilder,Suriname,SRD,2006,2.9
+1093,Lilangeni,Swaziland,SZL,2006,6.17
+1094,Krona,Sweden,SEK,2006,7.95
+1095,Franc,Switzerland,CHF,2006,1.32
+1096,Pound,Syria,SYP,2006,53.05
+1097,Dollar,Taiwan,TWD,2006,32.4
+1098,Ruble,Tajikistan,TJS,2006,3.22
+1099,Shilling,Tanzania,TZS,2006,1185.0
+1100,Baht,Thailand,THB,2006,39.12
+1101,Dili,Timor Leste,USD,2006,551.17
+1102,Cfa Franc,Togo,XOF,2006,551.17
+1103,Pa'Anga,Tonga,TOP,2006,2.04
+1104,Dollar,Trinidad & Tobago,TTD,2006,6.23
+1105,Dinar,Tunisia,TND,2006,1.36
+1106,Lira,Turkey,TRY,2006,1345000.0
+1107,Ruble,Turkmenistan,TMT,2006,5200.0
+1108,Shilling,Uganda,UGX,2006,1820.0
+1109,Hryvnia,Ukraine,UAH,2006,5.04
+1110,Dirham,United Arab Emirates,AED,2006,3.67
+1111,Pound Sterling,United Kingdom,GBP,2006,0.57
+1112,Peso,Uruguay,UYU,2006,24.2
+1113,Som,Uzbekistan,UZS,2006,1208.0
+1114,Vatu,Vanuatu,VUV,2006,111.2
+1115,Bolivar,Venezuela,VED,2006,2150.0
+1116,Dong,Vietnam,VND,2006,15909.0
+1117,Tala,Western Samoa,USD,2006,2.71
+1118,Rial,Yemen,YER,2006,196.0
+1119,Dinar,Yugoslavia,RSD,2006,73.83
+1120,Kwacha,Zambia,ZMW,2006,3270.0
+1121,Dollar,Zimbabwe,ZWL,2006,126300.0
+1122,Afghani,Afghanistan,ANF,2007,50.3
+1123,Lek,Albania,ALL,2007,92.15
+1124,Dinar,Algeria,DZD,2007,69.78
+1125,Kwanza,Angola,AOA,2007,75.0
+1126,E. Caribbean Dollar,Antigua-Barbuda,XCD,2007,2.7
+1127,Peso,Argentina,ARS,2007,3.08
+1128,Dram,Armenia,AMD,2007,347.0
+1129,Dollar,Australia,AUD,2007,1.21
+1130,Euro,Austria,EUR,2007,0.74
+1131,Manat,Azerbaijan,AZN,2007,4400.0
+1132,Dollar,Bahamas,BSD,2007,1.0
+1133,Dinar,Bahrain,BHD,2007,0.38
+1134,Taka,Bangladesh,BDT,2007,69.0
+1135,Dollar,Barbados,BBD,2007,2.02
+1136,Ruble,Belarus,BYN,2007,2145.0
+1137,Euro,Belgium,EUR,2007,0.74
+1138,Dollar,Belize,BZD,2007,2.0
+1139,Cfa Franc,Benin,XOF,2007,487.04
+1140,Dollar,Bermuda,BMD,2007,1.0
+1141,Boliviano,Bolivia,BOB,2007,7.94
+1142,Marka,Bosnia-Hercegovina,BAM,2007,1.45
+1143,Pula,Botswana,BWP,2007,6.12
+1144,Real,Brazil,BRL,2007,1.92
+1145,Dollar,Brunei,BND,2007,1.53
+1146,Lev,Bulgaria,BGN,2007,1.45
+1147,Cfa Franc,Burkina Faso,XOF,2007,487.04
+1148,Kyat,Burma-Myanmar,MMK,2007,450.0
+1149,Franc,Burundi,BIF,2007,1040.0
+1150,Riel,Cambodia,KHR,2007,4066.0
+1151,Cfa Franc,Cameroon,XAF,2007,487.04
+1152,Dollar,Canada,CAD,2007,1.07
+1153,Escudo,Cape Verde,CVE,2007,80.85
+1154,Dollar,Cayman Islands,KYD,2007,487.04
+1155,Cfa Franc,Central African Republic,XAF,2007,487.04
+1156,Cfa Franc,Chad,XAF,2007,487.04
+1157,Peso,Chile,CLP,2007,525.1
+1158,Renminbi,China,CNY,2007,7.64
+1159,Peso,Colombia,COP,2007,1902.2
+1160,Franc,Comoros,KMF,2007,361.35
+1161,Cfa Franc,Congo,XAF,2007,487.04
+1162,Congolese Franc,"Congo, Dem. Rep",CDF,2007,500.0
+1163,Colon,Costa Rica,CRC,2007,516.7
+1164,Kuna,Croatia,EUR,2007,5.39
+1165,Peso,Cuba,CUP,2007,0.93
+1166,Euro,Cyprus,EUR,2007,0.43
+1167,Koruna,Czechia,CZK,2007,20.7
+1168,Krone,Denmark,DKK,2007,5.54
+1169,Franc,Djibouti,DJF,2007,177.0
+1170,Peso,Dominican Republic,DOP,2007,32.15
+1171,Dollar,Ecuador,USD,2007,1.0
+1172,Pound,Egypt,EGP,2007,5.68
+1173,Colon,El Salvador,SVC,2007,1.0
+1174,Cfa Franc,Equatorial Guinea,XAF,2007,487.04
+1175,Nakfa,Eritrea,ERN,2007,15.0
+1176,Euro,Estonia,EUR,2007,11.63
+1177,Birr,Ethiopia,ETB,2007,8.95
+1178,Euro,Euro Zone,EUR,2007,0.74
+1179,Dollar,Fiji,FJD,2007,1.62
+1180,Euro,Finland,EUR,2007,0.74
+1181,Euro,France,EUR,2007,0.74
+1182,Cfa Franc,Gabon,XAF,2007,487.04
+1183,Dalasi,Gambia,GMD,2007,28.0
+1184,Lari,Georgia,GEL,2007,1.68
+1185,Euro,Germany,EUR,2007,0.74
+1186,Cedi,Ghana,GHS,2007,9210.0
+1187,Euro,Greece,EUR,2007,0.74
+1188,E. Caribbean Dollar,Grenada,XCD,2007,2.7
+1189,Quentzal,Guatemala,GTQ,2007,7.66
+1190,Franc,Guinea,GNF,2007,3220.0
+1191,Cfa Franc,Guinea Bissau,XOF,2007,487.04
+1192,Dollar,Guyana,GYD,2007,200.3
+1193,Gourde,Haiti,HTG,2007,35.9
+1194,Lempira,Honduras,HNL,2007,18.95
+1195,Dollar,Hong Kong,HKD,2007,7.81
+1196,Forint,Hungary,HUF,2007,186.02
+1197,Krona,Iceland,ISK,2007,61.58
+1198,Rupee,India,INR,2007,40.55
+1199,Rupiah,Indonesia,IDR,2007,8800.0
+1200,Rial,Iran,IRR,2007,8229.0
+1201,Dinar,Iraq,IQD,2007,1272.0
+1202,Euro,Ireland,EUR,2007,0.74
+1203,Shekel,Israel,ILS,2007,4.06
+1204,Euro,Italy,EUR,2007,0.74
+1205,Cfa Franc,Ivory Coast,XOF,2007,487.04
+1206,Dollar,Jamaica,JMD,2007,68.25
+1207,Yen,Japan,JPY,2007,121.79
+1208,Dinar,Jordan,JOD,2007,0.71
+1209,Tenge,Kazakhstan,KZT,2007,121.7
+1210,Shilling,Kenya,KES,2007,66.85
+1211,Won,Korea,KRW,2007,927.5
+1212,Dinar,Kuwait,KWD,2007,0.29
+1213,Som,Kyrgyzstan,KGS,2007,38.5
+1214,Kip,Laos,LAK,2007,9559.0
+1215,Euro,Latvia,EUR,2007,0.52
+1216,Pound,Lebanon,LBP,2007,1511.0
+1217,South African Rand,Lesotho,LSL,2007,7.12
+1218,U.S. Dollar,Liberia,LRD,2007,49.0
+1219,Dinar,Libya,LYD,2007,1.28
+1220,Euro,Lithuania,EUR,2007,2.57
+1221,Euro,Luxembourg,EUR,2007,0.74
+1222,Mop,Macao,MOP,2007,44.6
+1223,Denar,North Macedonia,MKD,2007,44.6
+1224,Ariary,Madagascar,MGA,2007,1845.6
+1225,Kwacha,Malawi,MWK,2007,138.12
+1226,Ringgit,Malaysia,MYR,2007,3.4
+1227,Cfa Franc,Mali,XOF,2007,487.04
+1228,Euro,Malta,EUR,2007,0.32
+1229,Dollar,Marshalls Islands,USD,2007,1.0
+1230,Euro,Martinique,EUR,2007,0.74
+1231,Ouguiya,Mauritania,MRU,2007,271.0
+1232,Rupee,Mauritius,MUR,2007,31.0
+1233,Peso,Mexico,MXN,2007,10.74
+1234,Dollar,Micronesia,USD,2007,1.0
+1235,Leu,Moldova,MDL,2007,12.26
+1236,Tugrik,Mongolia,MNT,2007,1170.0
+1237,Euro,Montenegro,EUR,2007,8.35
+1238,Dirham,Morocco,MAD,2007,8.35
+1239,Metical,Mozambique,MZN,2007,26.19
+1240,Dollar,Namibia,NAD,2007,7.12
+1241,Rupee,Nepal,NPR,2007,64.85
+1242,Euro,Netherlands,EUR,2007,0.74
+1243,Guilder,Netherlands Antilles,EUR,2007,1.78
+1244,Dollar,New Zealand,NZD,2007,1.36
+1245,Cordoba,Nicaragua,NIO,2007,18.33
+1246,Cfa Franc,Niger,XOF,2007,487.04
+1247,Naira,Nigeria,NGN,2007,127.5
+1248,Krone,Norway,NOK,2007,6.04
+1249,Rial,Oman,OMR,2007,0.38
+1250,Rupee,Pakistan,PKR,2007,60.72
+1251,Dollar,Palau,USD,2007,1.0
+1252,Balboa,Panama,PAB,2007,1.0
+1253,Kina,Papua New Guinea,PGK,2007,2.88
+1254,Guarani,Paraguay,PYG,2007,5030.0
+1255,Nuevo Sol,Peru,PEN,2007,3.17
+1256,Peso,Philippines,PHP,2007,46.2
+1257,Zloty,Poland,PLN,2007,2.83
+1258,Euro,Portugal,EUR,2007,0.74
+1259,Riyal,Qatar,QAR,2007,3.64
+1260,Dollar,Republic Of Palau,USD,2007,1.0
+1261,Leu,Romania,RON,2007,23576.0
+1262,Ruble,Russia,RUB,2007,546.2
+1263,Franc,Rwanda,RWF,2007,546.2
+1264,Dobras,Sao Tome & Principe,STN,2007,11663.14
+1265,Riyal,Saudi Arabia,SAR,2007,3.75
+1266,Cfa Franc,Senegal,XOF,2007,487.04
+1267,Dinar,Serbia,RSD,2007,6.12
+1268,Rupee,Seychelles,SCR,2007,6.12
+1269,Leone,Sierra Leone,SLE,2007,2995.0
+1270,Dollar,Singapore,SGD,2007,1.53
+1271,Korun,Slovakia,EUR,2007,25.22
+1272,Euro,Slovenia,EUR,2007,0.74
+1273,Dollar,Solomon Islands,SBD,2007,6.7
+1274,Rand,South Africa,ZAR,2007,7.12
+1275,Pound,South Sudanese,SSP,2007,25.89
+1276,Euro,Spain,EUR,2007,0.74
+1277,Rupee,Sri Lanka,LKR,2007,110.82
+1278,Sudanese Pound,Sudan,SDG,2007,200.0
+1279,Guilder,Suriname,SRD,2007,2.8
+1280,Lilangeni,Swaziland,SZL,2007,7.12
+1281,Krona,Sweden,SEK,2007,6.92
+1282,Franc,Switzerland,CHF,2007,1.23
+1283,Pound,Syria,SYP,2007,50.4
+1284,Dollar,Taiwan,TWD,2007,33.03
+1285,Ruble,Tajikistan,TJS,2007,3.45
+1286,Shilling,Tanzania,TZS,2007,1246.0
+1287,Baht,Thailand,THB,2007,34.63
+1288,Dili,Timor Leste,USD,2007,487.04
+1289,Cfa Franc,Togo,XOF,2007,487.04
+1290,Pa'Anga,Tonga,TOP,2007,1.92
+1291,Dollar,Trinidad & Tobago,TTD,2007,6.27
+1292,Dinar,Tunisia,TND,2007,1.3
+1293,Lira,Turkey,TRY,2007,1345000.0
+1294,Ruble,Turkmenistan,TMT,2007,5200.0
+1295,Shilling,Uganda,UGX,2007,1680.0
+1296,Hryvnia,Ukraine,UAH,2007,5.02
+1297,Dirham,United Arab Emirates,AED,2007,3.67
+1298,Pound Sterling,United Kingdom,GBP,2007,0.5
+1299,Peso,Uruguay,UYU,2007,23.85
+1300,Som,Uzbekistan,UZS,2007,1258.0
+1301,Vatu,Vanuatu,VUV,2007,100.2
+1302,Bolivar,Venezuela,VED,2007,2150.0
+1303,Dong,Vietnam,VND,2007,16080.0
+1304,Tala,Western Samoa,USD,2007,2.48
+1305,Rial,Yemen,YER,2007,198.0
+1306,Dinar,Yugoslavia,RSD,2007,0.74
+1307,Kwacha,Zambia,ZMW,2007,3960.0
+1308,Dollar,Zimbabwe,ZWL,2007,27720.0
+1309,Afghani,Afghanistan,ANF,2008,49.3
+1310,Lek,Albania,ALL,2008,82.45
+1311,Dinar,Algeria,DZD,2008,65.85
+1312,Kwanza,Angola,AOA,2008,75.0
+1313,E. Caribbean Dollar,Antigua-Barbuda,XCD,2008,2.7
+1314,Peso,Argentina,ARS,2008,3.16
+1315,Dram,Armenia,AMD,2008,306.0
+1316,Dollar,Australia,AUD,2008,1.07
+1317,Euro,Austria,EUR,2008,0.66
+1318,Manat,Azerbaijan,AZN,2008,0.86
+1319,Dollar,Bahamas,BSD,2008,1.0
+1320,Dinar,Bahrain,BHD,2008,0.38
+1321,Taka,Bangladesh,BDT,2008,68.0
+1322,Dollar,Barbados,BBD,2008,2.02
+1323,Ruble,Belarus,BYN,2008,2148.0
+1324,Euro,Belgium,EUR,2008,0.66
+1325,Dollar,Belize,BZD,2008,2.0
+1326,Cfa Franc,Benin,XOF,2008,429.0
+1327,Dollar,Bermuda,BMD,2008,1.0
+1328,Boliviano,Bolivia,BOB,2008,7.49
+1329,Marka,Bosnia-Hercegovina,BAM,2008,1.29
+1330,Pula,Botswana,BWP,2008,6.45
+1331,Real,Brazil,BRL,2008,1.67
+1332,Dollar,Brunei,BND,2008,1.39
+1333,Lev,Bulgaria,BGN,2008,1.29
+1334,Cfa Franc,Burkina Faso,XOF,2008,429.0
+1335,Kyat,Burma-Myanmar,MMK,2008,450.0
+1336,Franc,Burundi,BIF,2008,1135.0
+1337,Riel,Cambodia,KHR,2008,4000.0
+1338,Cfa Franc,Cameroon,XAF,2008,429.0
+1339,Dollar,Canada,CAD,2008,0.98
+1340,Escudo,Cape Verde,CVE,2008,71.97
+1341,Dollar,Cayman Islands,KYD,2008,429.0
+1342,Cfa Franc,Central African Republic,XAF,2008,429.0
+1343,Cfa Franc,Chad,XAF,2008,429.0
+1344,Peso,Chile,CLP,2008,455.1
+1345,Renminbi,China,CNY,2008,7.11
+1346,Peso,Colombia,COP,2008,1838.7
+1347,Franc,Comoros,KMF,2008,361.35
+1348,Cfa Franc,Congo,XAF,2008,429.0
+1349,Congolese Franc,"Congo, Dem. Rep",CDF,2008,541.0
+1350,Colon,Costa Rica,CRC,2008,493.21
+1351,Kuna,Croatia,EUR,2008,4.8
+1352,Peso,Cuba,CUP,2008,0.93
+1353,Euro,Cyprus,EUR,2008,0.4
+1354,Koruna,Czechia,CZK,2008,16.24
+1355,Krone,Denmark,DKK,2008,4.91
+1356,Franc,Djibouti,DJF,2008,177.0
+1357,Peso,Dominican Republic,DOP,2008,33.54
+1358,Dollar,Ecuador,USD,2008,1.0
+1359,Pound,Egypt,EGP,2008,5.48
+1360,Colon,El Salvador,SVC,2008,1.0
+1361,Cfa Franc,Equatorial Guinea,XAF,2008,429.0
+1362,Nakfa,Eritrea,ERN,2008,15.0
+1363,Euro,Estonia,EUR,2008,10.31
+1364,Birr,Ethiopia,ETB,2008,9.33
+1365,Euro,Euro Zone,EUR,2008,0.66
+1366,Dollar,Fiji,FJD,2008,1.48
+1367,Euro,Finland,EUR,2008,0.66
+1368,Euro,France,EUR,2008,0.66
+1369,Cfa Franc,Gabon,XAF,2008,429.0
+1370,Dalasi,Gambia,GMD,2008,22.0
+1371,Lari,Georgia,GEL,2008,1.55
+1372,Euro,Germany,EUR,2008,0.66
+1373,Cedi,Ghana,GHS,2008,0.97
+1374,Euro,Greece,EUR,2008,0.66
+1375,E. Caribbean Dollar,Grenada,XCD,2008,2.7
+1376,Quentzal,Guatemala,GTQ,2008,7.69
+1377,Franc,Guinea,GNF,2008,4412.0
+1378,Cfa Franc,Guinea Bissau,XOF,2008,429.0
+1379,Dollar,Guyana,GYD,2008,200.3
+1380,Gourde,Haiti,HTG,2008,37.25
+1381,Lempira,Honduras,HNL,2008,18.95
+1382,Dollar,Hong Kong,HKD,2008,7.78
+1383,Forint,Hungary,HUF,2008,155.22
+1384,Krona,Iceland,ISK,2008,78.68
+1385,Rupee,India,INR,2008,39.7
+1386,Rupiah,Indonesia,IDR,2008,9000.0
+1387,Rial,Iran,IRR,2008,8229.0
+1388,Dinar,Iraq,IQD,2008,1272.0
+1389,Euro,Ireland,EUR,2008,0.66
+1390,Shekel,Israel,ILS,2008,3.23
+1391,Euro,Italy,EUR,2008,0.66
+1392,Cfa Franc,Ivory Coast,XOF,2008,429.0
+1393,Dollar,Jamaica,JMD,2008,71.55
+1394,Yen,Japan,JPY,2008,104.15
+1395,Dinar,Jordan,JOD,2008,0.71
+1396,Tenge,Kazakhstan,KZT,2008,120.9
+1397,Shilling,Kenya,KES,2008,67.9
+1398,Won,Korea,KRW,2008,1033.5
+1399,Dinar,Kuwait,KWD,2008,0.27
+1400,Som,Kyrgyzstan,KGS,2008,36.4
+1401,Kip,Laos,LAK,2008,8943.0
+1402,Euro,Latvia,EUR,2008,0.46
+1403,Pound,Lebanon,LBP,2008,1501.0
+1404,South African Rand,Lesotho,LSL,2008,7.72
+1405,U.S. Dollar,Liberia,LRD,2008,49.0
+1406,Dinar,Libya,LYD,2008,1.22
+1407,Euro,Lithuania,EUR,2008,2.28
+1408,Euro,Luxembourg,EUR,2008,0.66
+1409,Mop,Macao,MOP,2008,39.6
+1410,Denar,North Macedonia,MKD,2008,39.6
+1411,Ariary,Madagascar,MGA,2008,1615.62
+1412,Kwacha,Malawi,MWK,2008,142.01
+1413,Ringgit,Malaysia,MYR,2008,3.19
+1414,Cfa Franc,Mali,XOF,2008,429.0
+1415,Euro,Malta,EUR,2008,0.29
+1416,Dollar,Marshalls Islands,USD,2008,1.0
+1417,Euro,Martinique,EUR,2008,0.66
+1418,Ouguiya,Mauritania,MRU,2008,261.0
+1419,Rupee,Mauritius,MUR,2008,27.2
+1420,Peso,Mexico,MXN,2008,10.69
+1421,Dollar,Micronesia,USD,2008,1.0
+1422,Leu,Moldova,MDL,2008,11.1
+1423,Tugrik,Mongolia,MNT,2008,1187.25
+1424,Euro,Montenegro,EUR,2008,0.66
+1425,Dirham,Morocco,MAD,2008,7.56
+1426,Metical,Mozambique,MZN,2008,24.23
+1427,Dollar,Namibia,NAD,2008,7.72
+1428,Rupee,Nepal,NPR,2008,63.55
+1429,Euro,Netherlands,EUR,2008,0.66
+1430,Guilder,Netherlands Antilles,EUR,2008,1.78
+1431,Dollar,New Zealand,NZD,2008,1.24
+1432,Cordoba,Nicaragua,NIO,2008,19.05
+1433,Cfa Franc,Niger,XOF,2008,429.0
+1434,Naira,Nigeria,NGN,2008,117.02
+1435,Krone,Norway,NOK,2008,5.2
+1436,Rial,Oman,OMR,2008,0.38
+1437,Rupee,Pakistan,PKR,2008,62.58
+1438,Dollar,Palau,USD,2008,1.0
+1439,Balboa,Panama,PAB,2008,1.0
+1440,Kina,Papua New Guinea,PGK,2008,2.68
+1441,Guarani,Paraguay,PYG,2008,4030.0
+1442,Nuevo Sol,Peru,PEN,2008,2.89
+1443,Peso,Philippines,PHP,2008,40.35
+1444,Zloty,Poland,PLN,2008,2.33
+1445,Euro,Portugal,EUR,2008,0.66
+1446,Riyal,Qatar,QAR,2008,3.63
+1447,Dollar,Republic Of Palau,USD,2008,1.0
+1448,Leu,Romania,RON,2008,2.46
+1449,Ruble,Russia,RUB,2008,546.53
+1450,Franc,Rwanda,RWF,2008,546.53
+1451,Dobras,Sao Tome & Principe,STN,2008,13261.46
+1452,Riyal,Saudi Arabia,SAR,2008,3.75
+1453,Cfa Franc,Senegal,XOF,2008,429.0
+1454,Dinar,Serbia,RSD,2008,7.98
+1455,Rupee,Seychelles,SCR,2008,7.98
+1456,Leone,Sierra Leone,SLE,2008,2967.0
+1457,Dollar,Singapore,SGD,2008,1.39
+1458,Korun,Slovakia,EUR,2008,21.43
+1459,Euro,Slovenia,EUR,2008,0.66
+1460,Dollar,Solomon Islands,SBD,2008,7.06
+1461,Rand,South Africa,ZAR,2008,7.72
+1462,Pound,South Sudanese,SSP,2008,24.02
+1463,Euro,Spain,EUR,2008,0.66
+1464,Rupee,Sri Lanka,LKR,2008,107.82
+1465,Sudanese Pound,Sudan,SDG,2008,2.01
+1466,Guilder,Suriname,SRD,2008,2.8
+1467,Lilangeni,Swaziland,SZL,2008,7.72
+1468,Krona,Sweden,SEK,2008,6.18
+1469,Franc,Switzerland,CHF,2008,1.05
+1470,Pound,Syria,SYP,2008,47.55
+1471,Dollar,Taiwan,TWD,2008,30.91
+1472,Ruble,Tajikistan,TJS,2008,3.46
+1473,Shilling,Tanzania,TZS,2008,1160.0
+1474,Baht,Thailand,THB,2008,31.93
+1475,Dili,Timor Leste,USD,2008,429.0
+1476,Cfa Franc,Togo,XOF,2008,429.0
+1477,Pa'Anga,Tonga,TOP,2008,1.76
+1478,Dollar,Trinidad & Tobago,TTD,2008,6.26
+1479,Dinar,Tunisia,TND,2008,1.19
+1480,Lira,Turkey,TRY,2008,1.2
+1481,Ruble,Turkmenistan,TMT,2008,14215.0
+1482,Shilling,Uganda,UGX,2008,1690.51
+1483,Hryvnia,Ukraine,UAH,2008,5.05
+1484,Dirham,United Arab Emirates,AED,2008,3.67
+1485,Pound Sterling,United Kingdom,GBP,2008,0.5
+1486,Peso,Uruguay,UYU,2008,20.85
+1487,Som,Uzbekistan,UZS,2008,1307.0
+1488,Vatu,Vanuatu,VUV,2008,89.1
+1489,Bolivar,Venezuela,VED,2008,2.15
+1490,Dong,Vietnam,VND,2008,15930.0
+1491,Tala,Western Samoa,USD,2008,2.3
+1492,Rial,Yemen,YER,2008,199.0
+1493,Dinar,Yugoslavia,RSD,2008,54.97
+1494,Kwacha,Zambia,ZMW,2008,3230.0
+1495,Dollar,Zimbabwe,ZWL,2008,2910000000.0
+1496,Afghani,Afghanistan,ANF,2009,47.3
+1497,Lek,Albania,ALL,2009,102.4
+1498,Dinar,Algeria,DZD,2009,72.0
+1499,Kwanza,Angola,AOA,2009,75.0
+1500,E. Caribbean Dollar,Antigua-Barbuda,XCD,2009,2.7
+1501,Peso,Argentina,ARS,2009,3.56
+1502,Dram,Armenia,AMD,2009,370.0
+1503,Dollar,Australia,AUD,2009,1.24
+1504,Euro,Austria,EUR,2009,0.79
+1505,Manat,Azerbaijan,AZN,2009,0.82
+1506,Dollar,Bahamas,BSD,2009,1.0
+1507,Dinar,Bahrain,BHD,2009,0.38
+1508,Taka,Bangladesh,BDT,2009,68.0
+1509,Dollar,Barbados,BBD,2009,2.02
+1510,Ruble,Belarus,BYN,2009,2855.0
+1511,Euro,Belgium,EUR,2009,0.79
+1512,Dollar,Belize,BZD,2009,2.0
+1513,Cfa Franc,Benin,XOF,2009,515.0
+1514,Dollar,Bermuda,BMD,2009,1.0
+1515,Boliviano,Bolivia,BOB,2009,7.0
+1516,Marka,Bosnia-Hercegovina,BAM,2009,1.39
+1517,Pula,Botswana,BWP,2009,6.9
+1518,Real,Brazil,BRL,2009,1.95
+1519,Dollar,Brunei,BND,2009,1.54
+1520,Lev,Bulgaria,BGN,2009,1.39
+1521,Cfa Franc,Burkina Faso,XOF,2009,515.0
+1522,Kyat,Burma-Myanmar,MMK,2009,450.0
+1523,Franc,Burundi,BIF,2009,1200.0
+1524,Riel,Cambodia,KHR,2009,4077.0
+1525,Cfa Franc,Cameroon,XAF,2009,515.0
+1526,Dollar,Canada,CAD,2009,1.12
+1527,Escudo,Cape Verde,CVE,2009,85.28
+1528,Dollar,Cayman Islands,KYD,2009,515.0
+1529,Cfa Franc,Central African Republic,XAF,2009,515.0
+1530,Cfa Franc,Chad,XAF,2009,515.0
+1531,Peso,Chile,CLP,2009,596.05
+1532,Renminbi,China,CNY,2009,6.84
+1533,Peso,Colombia,COP,2009,2017.1
+1534,Franc,Comoros,KMF,2009,361.35
+1535,Cfa Franc,Congo,XAF,2009,515.0
+1536,Congolese Franc,"Congo, Dem. Rep",CDF,2009,810.0
+1537,Colon,Costa Rica,CRC,2009,557.5
+1538,Kuna,Croatia,EUR,2009,5.09
+1539,Peso,Cuba,CUP,2009,0.93
+1540,Euro,Cyprus,EUR,2009,18.67
+1541,Koruna,Czechia,CZK,2009,18.67
+1542,Krone,Denmark,DKK,2009,5.28
+1543,Franc,Djibouti,DJF,2009,177.0
+1544,Peso,Dominican Republic,DOP,2009,35.52
+1545,Dollar,Ecuador,USD,2009,1.0
+1546,Pound,Egypt,EGP,2009,5.56
+1547,Colon,El Salvador,SVC,2009,1.0
+1548,Cfa Franc,Equatorial Guinea,XAF,2009,515.0
+1549,Nakfa,Eritrea,ERN,2009,15.0
+1550,Euro,Estonia,EUR,2009,11.09
+1551,Birr,Ethiopia,ETB,2009,11.05
+1552,Euro,Euro Zone,EUR,2009,0.71
+1553,Dollar,Fiji,FJD,2009,2.1
+1554,Euro,Finland,EUR,2009,0.79
+1555,Euro,France,EUR,2009,0.79
+1556,Cfa Franc,Gabon,XAF,2009,515.0
+1557,Dalasi,Gambia,GMD,2009,26.0
+1558,Lari,Georgia,GEL,2009,1.67
+1559,Euro,Germany,EUR,2009,0.79
+1560,Cedi,Ghana,GHS,2009,1.39
+1561,Euro,Greece,EUR,2009,0.79
+1562,E. Caribbean Dollar,Grenada,XCD,2009,2.7
+1563,Quentzal,Guatemala,GTQ,2009,8.01
+1564,Franc,Guinea,GNF,2009,4640.0
+1565,Cfa Franc,Guinea Bissau,XOF,2009,515.0
+1566,Dollar,Guyana,GYD,2009,200.34
+1567,Gourde,Haiti,HTG,2009,39.75
+1568,Lempira,Honduras,HNL,2009,18.9
+1569,Dollar,Hong Kong,HKD,2009,7.75
+1570,Forint,Hungary,HUF,2009,198.32
+1571,Krona,Iceland,ISK,2009,126.99
+1572,Rupee,India,INR,2009,50.35
+1573,Rupiah,Indonesia,IDR,2009,10000.0
+1574,Rial,Iran,IRR,2009,8229.0
+1575,Dinar,Iraq,IQD,2009,1155.05
+1576,Euro,Ireland,EUR,2009,0.79
+1577,Shekel,Israel,ILS,2009,4.16
+1578,Euro,Italy,EUR,2009,0.79
+1579,Cfa Franc,Ivory Coast,XOF,2009,515.0
+1580,Dollar,Jamaica,JMD,2009,87.15
+1581,Yen,Japan,JPY,2009,97.44
+1582,Dinar,Jordan,JOD,2009,0.71
+1583,Tenge,Kazakhstan,KZT,2009,150.3
+1584,Shilling,Kenya,KES,2009,79.65
+1585,Won,Korea,KRW,2009,1248.9
+1586,Dinar,Kuwait,KWD,2009,0.29
+1587,Som,Kyrgyzstan,KGS,2009,41.0
+1588,Kip,Laos,LAK,2009,8525.0
+1589,Euro,Latvia,EUR,2009,0.5
+1590,Pound,Lebanon,LBP,2009,1500.0
+1591,South African Rand,Lesotho,LSL,2009,8.03
+1592,U.S. Dollar,Liberia,LRD,2009,49.0
+1593,Dinar,Libya,LYD,2009,1.31
+1594,Euro,Lithuania,EUR,2009,2.45
+1595,Euro,Luxembourg,EUR,2009,0.79
+1596,Mop,Macao,MOP,2009,47.4
+1597,Denar,North Macedonia,MKD,2009,47.4
+1598,Ariary,Madagascar,MGA,2009,1929.99
+1599,Kwacha,Malawi,MWK,2009,142.01
+1600,Ringgit,Malaysia,MYR,2009,3.7
+1601,Cfa Franc,Mali,XOF,2009,515.0
+1602,Euro,Malta,EUR,2009,1.0
+1603,Dollar,Marshalls Islands,USD,2009,1.0
+1604,Euro,Martinique,EUR,2009,0.79
+1605,Ouguiya,Mauritania,MRU,2009,260.0
+1606,Rupee,Mauritius,MUR,2009,34.0
+1607,Peso,Mexico,MXN,2009,13.38
+1608,Dollar,Micronesia,USD,2009,1.0
+1609,Leu,Moldova,MDL,2009,10.67
+1610,Tugrik,Mongolia,MNT,2009,1471.93
+1611,Euro,Montenegro,EUR,2009,0.79
+1612,Dirham,Morocco,MAD,2009,8.72
+1613,Metical,Mozambique,MZN,2009,26.71
+1614,Dollar,Namibia,NAD,2009,8.03
+1615,Rupee,Nepal,NPR,2009,79.65
+1616,Euro,Netherlands,EUR,2009,0.79
+1617,Guilder,Netherlands Antilles,EUR,2009,1.78
+1618,Dollar,New Zealand,NZD,2009,1.57
+1619,Cordoba,Nicaragua,NIO,2009,19.97
+1620,Cfa Franc,Niger,XOF,2009,515.0
+1621,Naira,Nigeria,NGN,2009,147.05
+1622,Krone,Norway,NOK,2009,6.98
+1623,Rial,Oman,OMR,2009,0.38
+1624,Rupee,Pakistan,PKR,2009,79.95
+1625,Dollar,Palau,USD,2009,1.0
+1626,Balboa,Panama,PAB,2009,1.0
+1627,Kina,Papua New Guinea,PGK,2009,2.63
+1628,Guarani,Paraguay,PYG,2009,5080.0
+1629,Nuevo Sol,Peru,PEN,2009,3.24
+1630,Peso,Philippines,PHP,2009,48.78
+1631,Zloty,Poland,PLN,2009,3.2
+1632,Euro,Portugal,EUR,2009,0.79
+1633,Riyal,Qatar,QAR,2009,3.64
+1634,Dollar,Republic Of Palau,USD,2009,1.0
+1635,Leu,Romania,RON,2009,3.0
+1636,Ruble,Russia,RUB,2009,565.57
+1637,Franc,Rwanda,RWF,2009,565.57
+1638,Dobras,Sao Tome & Principe,STN,2009,17020.79
+1639,Riyal,Saudi Arabia,SAR,2009,3.75
+1640,Cfa Franc,Senegal,XOF,2009,515.0
+1641,Dinar,Serbia,RSD,2009,13.42
+1642,Rupee,Seychelles,SCR,2009,13.42
+1643,Leone,Sierra Leone,SLE,2009,3044.0
+1644,Dollar,Singapore,SGD,2009,1.54
+1645,Korun,Slovakia,EUR,2009,21.55
+1646,Euro,Slovenia,EUR,2009,0.79
+1647,Dollar,Solomon Islands,SBD,2009,7.25
+1648,Rand,South Africa,ZAR,2009,8.03
+1649,Pound,South Sudanese,SSP,2009,31.0
+1650,Euro,Spain,EUR,2009,0.79
+1651,Rupee,Sri Lanka,LKR,2009,114.25
+1652,Sudanese Pound,Sudan,SDG,2009,2.26
+1653,Guilder,Suriname,SRD,2009,2.8
+1654,Lilangeni,Swaziland,SZL,2009,8.03
+1655,Krona,Sweden,SEK,2009,7.7
+1656,Franc,Switzerland,CHF,2009,1.17
+1657,Pound,Syria,SYP,2009,47.25
+1658,Dollar,Taiwan,TWD,2009,34.93
+1659,Ruble,Tajikistan,TJS,2009,4.4
+1660,Shilling,Tanzania,TZS,2009,1318.0
+1661,Baht,Thailand,THB,2009,36.12
+1662,Dili,Timor Leste,USD,2009,515.0
+1663,Cfa Franc,Togo,XOF,2009,515.0
+1664,Pa'Anga,Tonga,TOP,2009,2.15
+1665,Dollar,Trinidad & Tobago,TTD,2009,6.04
+1666,Dinar,Tunisia,TND,2009,1.44
+1667,Lira,Turkey,TRY,2009,1.69
+1668,Ruble,Turkmenistan,TMT,2009,2.84
+1669,Shilling,Uganda,UGX,2009,2225.0
+1670,Hryvnia,Ukraine,UAH,2009,8.4
+1671,Dirham,United Arab Emirates,AED,2009,3.67
+1672,Pound Sterling,United Kingdom,GBP,2009,0.61
+1673,Peso,Uruguay,UYU,2009,23.2
+1674,Som,Uzbekistan,UZS,2009,1420.0
+1675,Vatu,Vanuatu,VUV,2009,103.05
+1676,Bolivar,Venezuela,VED,2009,2.15
+1677,Dong,Vietnam,VND,2009,17428.0
+1678,Tala,Western Samoa,USD,2009,2.86
+1679,Rial,Yemen,YER,2009,200.0
+1680,Dinar,Yugoslavia,RSD,2009,73.68
+1681,Kwacha,Zambia,ZMW,2009,4960.0
+1682,Dollar,Zimbabwe,ZWL,2009,6000000000.0
+1683,Afghani,Afghanistan,ANF,2010,47.8
+1684,Lek,Albania,ALL,2010,102.45
+1685,Dinar,Algeria,DZD,2010,71.58
+1686,Kwanza,Angola,AOA,2010,90.0
+1687,E. Caribbean Dollar,Antigua-Barbuda,XCD,2010,2.7
+1688,Peso,Argentina,ARS,2010,3.88
+1689,Dram,Armenia,AMD,2010,395.0
+1690,Dollar,Australia,AUD,2010,1.09
+1691,Euro,Austria,EUR,2010,0.74
+1692,Manat,Azerbaijan,AZN,2010,0.82
+1693,Dollar,Bahamas,BSD,2010,1.0
+1694,Dinar,Bahrain,BHD,2010,0.38
+1695,Taka,Bangladesh,BDT,2010,68.0
+1696,Dollar,Barbados,BBD,2010,2.02
+1697,Ruble,Belarus,BYN,2010,2990.0
+1698,Euro,Belgium,EUR,2010,0.74
+1699,Dollar,Belize,BZD,2010,2.0
+1700,Cfa Franc,Benin,XOF,2010,533.82
+1701,Dollar,Bermuda,BMD,2010,1.0
+1702,Boliviano,Bolivia,BOB,2010,6.97
+1703,Marka,Bosnia-Hercegovina,BAM,2010,1.59
+1704,Pula,Botswana,BWP,2010,6.76
+1705,Real,Brazil,BRL,2010,1.79
+1706,Dollar,Brunei,BND,2010,1.4
+1707,Lev,Bulgaria,BGN,2010,1.59
+1708,Cfa Franc,Burkina Faso,XOF,2010,533.82
+1709,Kyat,Burma-Myanmar,MMK,2010,450.0
+1710,Franc,Burundi,BIF,2010,1200.0
+1711,Riel,Cambodia,KHR,2010,4169.0
+1712,Cfa Franc,Cameroon,XAF,2010,533.82
+1713,Dollar,Canada,CAD,2010,1.02
+1714,Escudo,Cape Verde,CVE,2010,90.33
+1715,Dollar,Cayman Islands,KYD,2010,533.82
+1716,Cfa Franc,Central African Republic,XAF,2010,533.82
+1717,Cfa Franc,Chad,XAF,2010,533.82
+1718,Peso,Chile,CLP,2010,515.0
+1719,Renminbi,China,CNY,2010,6.83
+1720,Peso,Colombia,COP,2010,1924.0
+1721,Franc,Comoros,KMF,2010,361.35
+1722,Cfa Franc,Congo,XAF,2010,485.01
+1723,Congolese Franc,"Congo, Dem. Rep",CDF,2010,920.0
+1724,Colon,Costa Rica,CRC,2010,518.51
+1725,Kuna,Croatia,EUR,2010,5.82
+1726,Peso,Cuba,CUP,2010,0.93
+1727,Euro,Cyprus,EUR,2010,18.68
+1728,Koruna,Czechia,CZK,2010,18.68
+1729,Krone,Denmark,DKK,2010,6.11
+1730,Franc,Djibouti,DJF,2010,177.0
+1731,Peso,Dominican Republic,DOP,2010,36.28
+1732,Dollar,Ecuador,USD,2010,1.0
+1733,Pound,Egypt,EGP,2010,5.5
+1734,Colon,El Salvador,SVC,2010,1.0
+1735,Cfa Franc,Equatorial Guinea,XAF,2010,533.82
+1736,Nakfa,Eritrea,ERN,2010,15.0
+1737,Euro,Estonia,EUR,2010,12.75
+1738,Birr,Ethiopia,ETB,2010,13.4
+1739,Euro,Euro Zone,EUR,2010,0.82
+1740,Dollar,Fiji,FJD,2010,1.9
+1741,Euro,Finland,EUR,2010,0.74
+1742,Euro,France,EUR,2010,0.74
+1743,Cfa Franc,Gabon,XAF,2010,533.82
+1744,Dalasi,Gambia,GMD,2010,27.0
+1745,Lari,Georgia,GEL,2010,1.75
+1746,Euro,Germany,EUR,2010,0.74
+1747,Cedi,Ghana,GHS,2010,1.42
+1748,Euro,Greece,EUR,2010,0.74
+1749,E. Caribbean Dollar,Grenada,XCD,2010,2.7
+1750,Quentzal,Guatemala,GTQ,2010,7.99
+1751,Franc,Guinea,GNF,2010,5648.0
+1752,Cfa Franc,Guinea Bissau,XOF,2010,533.82
+1753,Dollar,Guyana,GYD,2010,201.0
+1754,Gourde,Haiti,HTG,2010,38.5
+1755,Lempira,Honduras,HNL,2010,18.9
+1756,Dollar,Hong Kong,HKD,2010,7.76
+1757,Forint,Hungary,HUF,2010,228.15
+1758,Krona,Iceland,ISK,2010,127.74
+1759,Rupee,India,INR,2010,44.95
+1760,Rupiah,Indonesia,IDR,2010,9025.0
+1761,Rial,Iran,IRR,2010,8229.0
+1762,Dinar,Iraq,IQD,2010,1165.05
+1763,Euro,Ireland,EUR,2010,0.74
+1764,Shekel,Israel,ILS,2010,3.7
+1765,Euro,Italy,EUR,2010,0.74
+1766,Cfa Franc,Ivory Coast,XOF,2010,533.82
+1767,Dollar,Jamaica,JMD,2010,89.3
+1768,Yen,Japan,JPY,2010,92.89
+1769,Dinar,Jordan,JOD,2010,0.71
+1770,Tenge,Kazakhstan,KZT,2010,147.1
+1771,Shilling,Kenya,KES,2010,77.25
+1772,Won,Korea,KRW,2010,1131.2
+1773,Dinar,Kuwait,KWD,2010,0.29
+1774,Som,Kyrgyzstan,KGS,2010,45.2
+1775,Kip,Laos,LAK,2010,8450.0
+1776,Euro,Latvia,EUR,2010,0.58
+1777,Pound,Lebanon,LBP,2010,1500.0
+1778,South African Rand,Lesotho,LSL,2010,7.32
+1779,U.S. Dollar,Liberia,LRD,2010,49.0
+1780,Dinar,Libya,LYD,2010,1.27
+1781,Euro,Lithuania,EUR,2010,2.81
+1782,Euro,Luxembourg,EUR,2010,0.74
+1783,Mop,Macao,MOP,2010,50.1
+1784,Denar,North Macedonia,MKD,2010,50.1
+1785,Ariary,Madagascar,MGA,2010,2109.46
+1786,Kwacha,Malawi,MWK,2010,151.0
+1787,Ringgit,Malaysia,MYR,2010,3.26
+1788,Cfa Franc,Mali,XOF,2010,533.82
+1789,Euro,Malta,EUR,2010,1.0
+1790,Dollar,Marshalls Islands,USD,2010,1.0
+1791,Euro,Martinique,EUR,2010,0.74
+1792,Ouguiya,Mauritania,MRU,2010,270.0
+1793,Rupee,Mauritius,MUR,2010,33.3
+1794,Peso,Mexico,MXN,2010,12.36
+1795,Dollar,Micronesia,USD,2010,1.0
+1796,Leu,Moldova,MDL,2010,12.35
+1797,Tugrik,Mongolia,MNT,2010,1370.43
+1798,Euro,Montenegro,EUR,2010,0.74
+1799,Dirham,Morocco,MAD,2010,8.33
+1800,Metical,Mozambique,MZN,2010,35.5
+1801,Dollar,Namibia,NAD,2010,7.32
+1802,Rupee,Nepal,NPR,2010,71.95
+1803,Euro,Netherlands,EUR,2010,0.74
+1804,Guilder,Netherlands Antilles,EUR,2010,1.78
+1805,Dollar,New Zealand,NZD,2010,1.41
+1806,Cordoba,Nicaragua,NIO,2010,21.05
+1807,Cfa Franc,Niger,XOF,2010,533.82
+1808,Naira,Nigeria,NGN,2010,149.9
+1809,Krone,Norway,NOK,2010,5.94
+1810,Rial,Oman,OMR,2010,0.38
+1811,Rupee,Pakistan,PKR,2010,83.9
+1812,Dollar,Palau,USD,2010,1.0
+1813,Balboa,Panama,PAB,2010,1.0
+1814,Kina,Papua New Guinea,PGK,2010,2.54
+1815,Guarani,Paraguay,PYG,2010,4700.0
+1816,Nuevo Sol,Peru,PEN,2010,2.84
+1817,Peso,Philippines,PHP,2010,45.16
+1818,Zloty,Poland,PLN,2010,3.32
+1819,Euro,Portugal,EUR,2010,0.74
+1820,Riyal,Qatar,QAR,2010,3.64
+1821,Dollar,Republic Of Palau,USD,2010,1.0
+1822,Leu,Romania,RON,2010,3.45
+1823,Ruble,Russia,RUB,2010,573.02
+1824,Franc,Rwanda,RWF,2010,573.02
+1825,Dobras,Sao Tome & Principe,STN,2010,20203.15
+1826,Riyal,Saudi Arabia,SAR,2010,3.75
+1827,Cfa Franc,Senegal,XOF,2010,533.82
+1828,Dinar,Serbia,RSD,2010,11.0
+1829,Rupee,Seychelles,SCR,2010,11.0
+1830,Leone,Sierra Leone,SLE,2010,3909.0
+1831,Dollar,Singapore,SGD,2010,1.4
+1832,Korun,Slovakia,EUR,2010,21.55
+1833,Euro,Slovenia,EUR,2010,0.7
+1834,Dollar,Solomon Islands,SBD,2010,7.62
+1835,Rand,South Africa,ZAR,2010,7.32
+1836,Pound,South Sudanese,SSP,2010,29.44
+1837,Euro,Spain,EUR,2010,0.74
+1838,Rupee,Sri Lanka,LKR,2010,114.0
+1839,Sudanese Pound,Sudan,SDG,2010,2.31
+1840,Guilder,Suriname,SRD,2010,2.8
+1841,Lilangeni,Swaziland,SZL,2010,7.32
+1842,Krona,Sweden,SEK,2010,7.21
+1843,Franc,Switzerland,CHF,2010,1.17
+1844,Pound,Syria,SYP,2010,45.85
+1845,Dollar,Taiwan,TWD,2010,31.73
+1846,Ruble,Tajikistan,TJS,2010,4.37
+1847,Shilling,Tanzania,TZS,2010,1356.0
+1848,Baht,Thailand,THB,2010,32.32
+1849,Dili,Timor Leste,USD,2010,533.82
+1850,Cfa Franc,Togo,XOF,2010,533.82
+1851,Pa'Anga,Tonga,TOP,2010,1.83
+1852,Dollar,Trinidad & Tobago,TTD,2010,6.28
+1853,Dinar,Tunisia,TND,2010,1.4
+1854,Lira,Turkey,TRY,2010,1.52
+1855,Ruble,Turkmenistan,TMT,2010,2.84
+1856,Shilling,Uganda,UGX,2010,2075.0
+1857,Hryvnia,Ukraine,UAH,2010,7.98
+1858,Dirham,United Arab Emirates,AED,2010,3.67
+1859,Pound Sterling,United Kingdom,GBP,2010,0.66
+1860,Peso,Uruguay,UYU,2010,19.45
+1861,Som,Uzbekistan,UZS,2010,1563.0
+1862,Vatu,Vanuatu,VUV,2010,95.46
+1863,Bolivar,Venezuela,VED,2010,2.6
+1864,Dong,Vietnam,VND,2010,19080.0
+1865,Tala,Western Samoa,USD,2010,2.52
+1866,Rial,Yemen,YER,2010,222.0
+1867,Dinar,Yugoslavia,RSD,2010,84.56
+1868,Kwacha,Zambia,ZMW,2010,4680.0
+1869,Dollar,Zimbabwe,ZWL,2010,1.0
+1870,Afghani,Afghanistan,ANF,2011,44.5
+1871,Lek,Albania,ALL,2011,100.7
+1872,Dinar,Algeria,DZD,2011,72.5
+1873,Kwanza,Angola,AOA,2011,90.0
+1874,E. Caribbean Dollar,Antigua-Barbuda,XCD,2011,2.7
+1875,Peso,Argentina,ARS,2011,4.03
+1876,Dram,Armenia,AMD,2011,365.0
+1877,Dollar,Australia,AUD,2011,0.98
+1878,Euro,Austria,EUR,2011,0.72
+1879,Manat,Azerbaijan,AZN,2011,0.8
+1880,Dollar,Bahamas,BSD,2011,1.0
+1881,Dinar,Bahrain,BHD,2011,0.38
+1882,Taka,Bangladesh,BDT,2011,71.0
+1883,Dollar,Barbados,BBD,2011,2.02
+1884,Ruble,Belarus,BYN,2011,3052.0
+1885,Euro,Belgium,EUR,2011,0.72
+1886,Dollar,Belize,BZD,2011,2.0
+1887,Cfa Franc,Benin,XOF,2011,474.3
+1888,Dollar,Bermuda,BMD,2011,1.0
+1889,Boliviano,Bolivia,BOB,2011,6.96
+1890,Marka,Bosnia-Hercegovina,BAM,2011,1.41
+1891,Pula,Botswana,BWP,2011,6.63
+1892,Real,Brazil,BRL,2011,1.66
+1893,Dollar,Brunei,BND,2011,1.27
+1894,Lev,Bulgaria,BGN,2011,1.41
+1895,Cfa Franc,Burkina Faso,XOF,2011,474.3
+1896,Kyat,Burma-Myanmar,MMK,2011,450.0
+1897,Franc,Burundi,BIF,2011,1243.0
+1898,Riel,Cambodia,KHR,2011,4046.0
+1899,Cfa Franc,Cameroon,XAF,2011,474.3
+1900,Dollar,Canada,CAD,2011,0.98
+1901,Escudo,Cape Verde,CVE,2011,80.0
+1902,Dollar,Cayman Islands,KYD,2011,0.82
+1903,Cfa Franc,Central African Republic,XAF,2011,474.3
+1904,Cfa Franc,Chad,XAF,2011,474.3
+1905,Peso,Chile,CLP,2011,475.2
+1906,Renminbi,China,CNY,2011,6.57
+1907,Peso,Colombia,COP,2011,1905.0
+1908,Franc,Comoros,KMF,2011,361.35
+1909,Cfa Franc,Congo,XAF,2011,474.3
+1910,Congolese Franc,"Congo, Dem. Rep",CDF,2011,920.0
+1911,Colon,Costa Rica,CRC,2011,495.7
+1912,Kuna,Croatia,EUR,2011,5.33
+1913,Peso,Cuba,CUP,2011,0.93
+1914,Euro,Cyprus,EUR,2011,0.72
+1915,Koruna,Czechia,CZK,2011,17.39
+1916,Krone,Denmark,DKK,2011,5.39
+1917,Franc,Djibouti,DJF,2011,177.0
+1918,Peso,Dominican Republic,DOP,2011,37.74
+1919,Dollar,Ecuador,USD,2011,1.0
+1920,Pound,Egypt,EGP,2011,5.89
+1921,Colon,El Salvador,SVC,2011,1.0
+1922,Cfa Franc,Equatorial Guinea,XAF,2011,474.3
+1923,Nakfa,Eritrea,ERN,2011,15.0
+1924,Euro,Estonia,EUR,2011,11.7
+1925,Birr,Ethiopia,ETB,2011,16.65
+1926,Euro,Euro Zone,EUR,2011,0.72
+1927,Dollar,Fiji,FJD,2011,1.8
+1928,Euro,Finland,EUR,2011,0.72
+1929,Euro,France,EUR,2011,0.72
+1930,Cfa Franc,Gabon,XAF,2011,474.3
+1931,Dalasi,Gambia,GMD,2011,28.5
+1932,Lari,Georgia,GEL,2011,1.76
+1933,Euro,Germany,EUR,2011,0.72
+1934,Cedi,Ghana,GHS,2011,1.51
+1935,Euro,Greece,EUR,2011,0.72
+1936,E. Caribbean Dollar,Grenada,XCD,2011,2.7
+1937,Quentzal,Guatemala,GTQ,2011,7.77
+1938,Franc,Guinea,GNF,2011,6286.0
+1939,Cfa Franc,Guinea Bissau,XOF,2011,474.3
+1940,Dollar,Guyana,GYD,2011,201.0
+1941,Gourde,Haiti,HTG,2011,38.5
+1942,Lempira,Honduras,HNL,2011,18.9
+1943,Dollar,Hong Kong,HKD,2011,7.79
+1944,Forint,Hungary,HUF,2011,196.1
+1945,Krona,Iceland,ISK,2011,115.86
+1946,Rupee,India,INR,2011,44.95
+1947,Rupiah,Indonesia,IDR,2011,8775.0
+1948,Rial,Iran,IRR,2011,8229.0
+1949,Dinar,Iraq,IQD,2011,1170.0
+1950,Euro,Ireland,EUR,2011,0.72
+1951,Shekel,Israel,ILS,2011,3.62
+1952,Euro,Italy,EUR,2011,0.72
+1953,Cfa Franc,Ivory Coast,XOF,2011,474.3
+1954,Dollar,Jamaica,JMD,2011,85.8
+1955,Yen,Japan,JPY,2011,81.87
+1956,Dinar,Jordan,JOD,2011,0.71
+1957,Tenge,Kazakhstan,KZT,2011,146.0
+1958,Shilling,Kenya,KES,2011,82.3
+1959,Won,Korea,KRW,2011,1126.0
+1960,Dinar,Kuwait,KWD,2011,0.28
+1961,Som,Kyrgyzstan,KGS,2011,47.2
+1962,Kip,Laos,LAK,2011,8033.0
+1963,Euro,Latvia,EUR,2011,0.51
+1964,Pound,Lebanon,LBP,2011,1500.0
+1965,South African Rand,Lesotho,LSL,2011,6.96
+1966,U.S. Dollar,Liberia,LRD,2011,49.0
+1967,Dinar,Libya,LYD,2011,1.23
+1968,Euro,Lithuania,EUR,2011,2.5
+1969,Euro,Luxembourg,EUR,2011,0.72
+1970,Mop,Macao,MOP,2011,44.0
+1971,Denar,North Macedonia,MKD,2011,44.0
+1972,Ariary,Madagascar,MGA,2011,2005.44
+1973,Kwacha,Malawi,MWK,2011,151.0
+1974,Ringgit,Malaysia,MYR,2011,3.05
+1975,Cfa Franc,Mali,XOF,2011,474.3
+1976,Euro,Malta,EUR,2011,0.72
+1977,Dollar,Marshalls Islands,USD,2011,1.0
+1978,Euro,Martinique,EUR,2011,0.72
+1979,Ouguiya,Mauritania,MRU,2011,290.0
+1980,Rupee,Mauritius,MUR,2011,28.9
+1981,Peso,Mexico,MXN,2011,12.12
+1982,Dollar,Micronesia,USD,2011,1.0
+1983,Leu,Moldova,MDL,2011,11.9
+1984,Tugrik,Mongolia,MNT,2011,1255.24
+1985,Euro,Montenegro,EUR,2011,0.72
+1986,Dirham,Morocco,MAD,2011,8.17
+1987,Metical,Mozambique,MZN,2011,32.65
+1988,Dollar,Namibia,NAD,2011,6.96
+1989,Rupee,Nepal,NPR,2011,72.2
+1990,Euro,Netherlands,EUR,2011,0.72
+1991,Guilder,Netherlands Antilles,EUR,2011,1.78
+1992,Dollar,New Zealand,NZD,2011,1.33
+1993,Cordoba,Nicaragua,NIO,2011,22.06
+1994,Cfa Franc,Niger,XOF,2011,474.3
+1995,Naira,Nigeria,NGN,2011,153.02
+1996,Krone,Norway,NOK,2011,5.59
+1997,Rial,Oman,OMR,2011,0.39
+1998,Rupee,Pakistan,PKR,2011,85.67
+1999,Dollar,Palau,USD,2011,1.0
+2000,Balboa,Panama,PAB,2011,1.0
+2001,Kina,Papua New Guinea,PGK,2011,2.52
+2002,Guarani,Paraguay,PYG,2011,4530.0
+2003,Nuevo Sol,Peru,PEN,2011,2.78
+2004,Peso,Philippines,PHP,2011,43.58
+2005,Zloty,Poland,PLN,2011,2.86
+2006,Euro,Portugal,EUR,2011,0.72
+2007,Riyal,Qatar,QAR,2011,3.64
+2008,Dollar,Republic Of Palau,USD,2011,1.0
+2009,Leu,Romania,RON,2011,3.05
+2010,Ruble,Russia,RUB,2011,599.3
+2011,Franc,Rwanda,RWF,2011,599.3
+2012,Dobras,Sao Tome & Principe,STN,2011,17843.38
+2013,Riyal,Saudi Arabia,SAR,2011,3.75
+2014,Cfa Franc,Senegal,XOF,2011,474.3
+2015,Dinar,Serbia,RSD,2011,12.03
+2016,Rupee,Seychelles,SCR,2011,12.03
+2017,Leone,Sierra Leone,SLE,2011,4243.0
+2018,Dollar,Singapore,SGD,2011,1.27
+2019,Korun,Slovakia,EUR,2011,0.79
+2020,Euro,Slovenia,EUR,2011,0.72
+2021,Dollar,Solomon Islands,SBD,2011,7.25
+2022,Rand,South Africa,ZAR,2011,6.96
+2023,Pound,South Sudanese,SSP,2011,28.86
+2024,Euro,Spain,EUR,2011,0.72
+2025,Rupee,Sri Lanka,LKR,2011,110.75
+2026,Sudanese Pound,Sudan,SDG,2011,2.69
+2027,Guilder,Suriname,SRD,2011,3.35
+2028,Lilangeni,Swaziland,SZL,2011,6.96
+2029,Krona,Sweden,SEK,2011,6.35
+2030,Franc,Switzerland,CHF,2011,0.93
+2031,Pound,Syria,SYP,2011,46.35
+2032,Dollar,Taiwan,TWD,2011,29.74
+2033,Ruble,Tajikistan,TJS,2011,4.41
+2034,Shilling,Tanzania,TZS,2011,1516.0
+2035,Baht,Thailand,THB,2011,30.59
+2036,Dili,Timor Leste,USD,2011,474.3
+2037,Cfa Franc,Togo,XOF,2011,474.3
+2038,Pa'Anga,Tonga,TOP,2011,1.76
+2039,Dollar,Trinidad & Tobago,TTD,2011,6.3
+2040,Dinar,Tunisia,TND,2011,1.4
+2041,Lira,Turkey,TRY,2011,1.6
+2042,Ruble,Turkmenistan,TMT,2011,2.84
+2043,Shilling,Uganda,UGX,2011,2354.0
+2044,Hryvnia,Ukraine,UAH,2011,7.98
+2045,Dirham,United Arab Emirates,AED,2011,3.67
+2046,Pound Sterling,United Kingdom,GBP,2011,0.62
+2047,Peso,Uruguay,UYU,2011,19.35
+2048,Som,Uzbekistan,UZS,2011,1676.0
+2049,Vatu,Vanuatu,VUV,2011,91.76
+2050,Bolivar,Venezuela,VED,2011,2.6
+2051,Dong,Vietnam,VND,2011,20900.0
+2052,Tala,Western Samoa,USD,2011,2.25
+2053,Rial,Yemen,YER,2011,214.0
+2054,Dinar,Yugoslavia,RSD,2011,72.21
+2055,Kwacha,Zambia,ZMW,2011,4740.0
+2056,Dollar,Zimbabwe,ZWL,2011,1.0
+2057,Afghani,Afghanistan,ANF,2012,48.7
+2058,Lek,Albania,ALL,2012,104.9
+2059,Dinar,Algeria,DZD,2012,73.5
+2060,Kwanza,Angola,AOA,2012,95.0
+2061,E. Caribbean Dollar,Antigua-Barbuda,XCD,2012,2.7
+2062,Peso,Argentina,ARS,2012,4.37
+2063,Dram,Armenia,AMD,2012,385.0
+2064,Dollar,Australia,AUD,2012,0.96
+2065,Euro,Austria,EUR,2012,0.75
+2066,Manat,Azerbaijan,AZN,2012,0.8
+2067,Dollar,Bahamas,BSD,2012,1.0
+2068,Dinar,Bahrain,BHD,2012,0.38
+2069,Taka,Bangladesh,BDT,2012,81.0
+2070,Dollar,Barbados,BBD,2012,2.02
+2071,Ruble,Belarus,BYN,2012,8000.0
+2072,Euro,Belgium,EUR,2012,0.75
+2073,Dollar,Belize,BZD,2012,2.0
+2074,Cfa Franc,Benin,XOF,2012,491.39
+2075,Dollar,Bermuda,BMD,2012,1.0
+2076,Boliviano,Bolivia,BOB,2012,6.83
+2077,Marka,Bosnia-Hercegovina,BAM,2012,1.46
+2078,Pula,Botswana,BWP,2012,7.25
+2079,Real,Brazil,BRL,2012,1.82
+2080,Dollar,Brunei,BND,2012,1.26
+2081,Lev,Bulgaria,BGN,2012,1.46
+2082,Cfa Franc,Burkina Faso,XOF,2012,491.39
+2083,Kyat,Burma-Myanmar,MMK,2012,815.0
+2084,Franc,Burundi,BIF,2012,1390.0
+2085,Riel,Cambodia,KHR,2012,4103.0
+2086,Cfa Franc,Cameroon,XAF,2012,491.39
+2087,Dollar,Canada,CAD,2012,1.0
+2088,Escudo,Cape Verde,CVE,2012,82.73
+2089,Dollar,Cayman Islands,KYD,2012,0.82
+2090,Cfa Franc,Central African Republic,XAF,2012,491.39
+2091,Cfa Franc,Chad,XAF,2012,491.39
+2092,Peso,Chile,CLP,2012,487.93
+2093,Renminbi,China,CNY,2012,6.3
+2094,Peso,Colombia,COP,2012,1791.0
+2095,Franc,Comoros,KMF,2012,361.35
+2096,Cfa Franc,Congo,XAF,2012,491.39
+2097,Congolese Franc,"Congo, Dem. Rep",CDF,2012,920.0
+2098,Colon,Costa Rica,CRC,2012,502.6
+2099,Kuna,Croatia,EUR,2012,5.57
+2100,Peso,Cuba,CUP,2012,1.0
+2101,Euro,Cyprus,EUR,2012,0.75
+2102,Koruna,Czechia,CZK,2012,18.16
+2103,Krone,Denmark,DKK,2012,5.57
+2104,Franc,Djibouti,DJF,2012,177.0
+2105,Peso,Dominican Republic,DOP,2012,38.88
+2106,Dollar,Ecuador,USD,2012,1.0
+2107,Pound,Egypt,EGP,2012,6.04
+2108,Colon,El Salvador,SVC,2012,1.0
+2109,Cfa Franc,Equatorial Guinea,XAF,2012,491.39
+2110,Nakfa,Eritrea,ERN,2012,15.0
+2111,Euro,Estonia,EUR,2012,11.7
+2112,Birr,Ethiopia,ETB,2012,17.39
+2113,Euro,Euro Zone,EUR,2012,0.75
+2114,Dollar,Fiji,FJD,2012,1.77
+2115,Euro,Finland,EUR,2012,0.75
+2116,Euro,France,EUR,2012,0.75
+2117,Cfa Franc,Gabon,XAF,2012,491.39
+2118,Dalasi,Gambia,GMD,2012,30.0
+2119,Lari,Georgia,GEL,2012,1.66
+2120,Euro,Germany,EUR,2012,0.75
+2121,Cedi,Ghana,GHS,2012,1.77
+2122,Euro,Greece,EUR,2012,0.75
+2123,E. Caribbean Dollar,Grenada,XCD,2012,2.7
+2124,Quentzal,Guatemala,GTQ,2012,7.7
+2125,Franc,Guinea,GNF,2012,7010.0
+2126,Cfa Franc,Guinea Bissau,XOF,2012,491.39
+2127,Dollar,Guyana,GYD,2012,202.0
+2128,Gourde,Haiti,HTG,2012,38.5
+2129,Lempira,Honduras,HNL,2012,19.21
+2130,Dollar,Hong Kong,HKD,2012,7.76
+2131,Forint,Hungary,HUF,2012,220.89
+2132,Krona,Iceland,ISK,2012,126.3
+2133,Rupee,India,INR,2012,50.8
+2134,Rupiah,Indonesia,IDR,2012,9075.0
+2135,Rial,Iran,IRR,2012,8229.0
+2136,Dinar,Iraq,IQD,2012,1166.0
+2137,Euro,Ireland,EUR,2012,0.75
+2138,Shekel,Israel,ILS,2012,3.71
+2139,Euro,Italy,EUR,2012,0.75
+2140,Cfa Franc,Ivory Coast,XOF,2012,491.39
+2141,Dollar,Jamaica,JMD,2012,86.1
+2142,Yen,Japan,JPY,2012,82.06
+2143,Dinar,Jordan,JOD,2012,0.71
+2144,Tenge,Kazakhstan,KZT,2012,147.7
+2145,Shilling,Kenya,KES,2012,82.95
+2146,Won,Korea,KRW,2012,1132.9
+2147,Dinar,Kuwait,KWD,2012,0.28
+2148,Som,Kyrgyzstan,KGS,2012,46.4
+2149,Kip,Laos,LAK,2012,7973.0
+2150,Euro,Latvia,EUR,2012,0.52
+2151,Pound,Lebanon,LBP,2012,1500.0
+2152,South African Rand,Lesotho,LSL,2012,7.66
+2153,U.S. Dollar,Liberia,LRD,2012,49.0
+2154,Dinar,Libya,LYD,2012,1.28
+2155,Euro,Lithuania,EUR,2012,2.59
+2156,Euro,Luxembourg,EUR,2012,0.75
+2157,Mop,Macao,MOP,2012,45.6
+2158,Denar,North Macedonia,MKD,2012,45.6
+2159,Ariary,Madagascar,MGA,2012,2109.3
+2160,Kwacha,Malawi,MWK,2012,168.0
+2161,Ringgit,Malaysia,MYR,2012,3.06
+2162,Cfa Franc,Mali,XOF,2012,491.39
+2163,Euro,Malta,EUR,2012,0.75
+2164,Dollar,Marshalls Islands,USD,2012,1.0
+2165,Euro,Martinique,EUR,2012,0.75
+2166,Ouguiya,Mauritania,MRU,2012,290.0
+2167,Rupee,Mauritius,MUR,2012,28.8
+2168,Peso,Mexico,MXN,2012,12.76
+2169,Dollar,Micronesia,USD,2012,1.0
+2170,Leu,Moldova,MDL,2012,11.78
+2171,Tugrik,Mongolia,MNT,2012,1328.04
+2172,Euro,Montenegro,EUR,2012,0.75
+2173,Dirham,Morocco,MAD,2012,8.44
+2174,Metical,Mozambique,MZN,2012,27.45
+2175,Dollar,Namibia,NAD,2012,7.66
+2176,Rupee,Nepal,NPR,2012,81.6
+2177,Euro,Netherlands,EUR,2012,0.75
+2178,Guilder,Netherlands Antilles,EUR,2012,1.78
+2179,Dollar,New Zealand,NZD,2012,1.22
+2180,Cordoba,Nicaragua,NIO,2012,23.26
+2181,Cfa Franc,Niger,XOF,2012,491.39
+2182,Naira,Nigeria,NGN,2012,157.65
+2183,Krone,Norway,NOK,2012,5.69
+2184,Rial,Oman,OMR,2012,0.38
+2185,Rupee,Pakistan,PKR,2012,90.54
+2186,Dollar,Palau,USD,2012,1.0
+2187,Balboa,Panama,PAB,2012,1.0
+2188,Kina,Papua New Guinea,PGK,2012,1.99
+2189,Guarani,Paraguay,PYG,2012,4280.0
+2190,Nuevo Sol,Peru,PEN,2012,2.67
+2191,Peso,Philippines,PHP,2012,42.92
+2192,Zloty,Poland,PLN,2012,3.11
+2193,Euro,Portugal,EUR,2012,0.75
+2194,Riyal,Qatar,QAR,2012,3.64
+2195,Dollar,Republic Of Palau,USD,2012,1.0
+2196,Leu,Romania,RON,2012,3.28
+2197,Ruble,Russia,RUB,2012,605.71
+2198,Franc,Rwanda,RWF,2012,605.71
+2199,Dobras,Sao Tome & Principe,STN,2012,18370.76
+2200,Riyal,Saudi Arabia,SAR,2012,3.75
+2201,Cfa Franc,Senegal,XOF,2012,491.39
+2202,Dinar,Serbia,RSD,2012,13.88
+2203,Rupee,Seychelles,SCR,2012,13.88
+2204,Leone,Sierra Leone,SLE,2012,4353.0
+2205,Dollar,Singapore,SGD,2012,1.26
+2206,Korun,Slovakia,EUR,2012,0.79
+2207,Euro,Slovenia,EUR,2012,0.75
+2208,Dollar,Solomon Islands,SBD,2012,6.76
+2209,Rand,South Africa,ZAR,2012,7.66
+2210,Pound,South Sudanese,SSP,2012,29.35
+2211,Euro,Spain,EUR,2012,0.75
+2212,Rupee,Sri Lanka,LKR,2012,128.0
+2213,Sudanese Pound,Sudan,SDG,2012,2.9
+2214,Guilder,Suriname,SRD,2012,3.35
+2215,Lilangeni,Swaziland,SZL,2012,7.66
+2216,Krona,Sweden,SEK,2012,6.62
+2217,Franc,Switzerland,CHF,2012,0.9
+2218,Pound,Syria,SYP,2012,70.75
+2219,Dollar,Taiwan,TWD,2012,29.5
+2220,Ruble,Tajikistan,TJS,2012,4.76
+2221,Shilling,Tanzania,TZS,2012,1588.0
+2222,Baht,Thailand,THB,2012,30.84
+2223,Dili,Timor Leste,USD,2012,491.39
+2224,Cfa Franc,Togo,XOF,2012,491.39
+2225,Pa'Anga,Tonga,TOP,2012,1.56
+2226,Dollar,Trinidad & Tobago,TTD,2012,6.37
+2227,Dinar,Tunisia,TND,2012,1.51
+2228,Lira,Turkey,TRY,2012,1.78
+2229,Ruble,Turkmenistan,TMT,2012,2.84
+2230,Shilling,Uganda,UGX,2012,2515.0
+2231,Hryvnia,Ukraine,UAH,2012,8.03
+2232,Dirham,United Arab Emirates,AED,2012,3.67
+2233,Pound Sterling,United Kingdom,GBP,2012,0.62
+2234,Peso,Uruguay,UYU,2012,19.3
+2235,Som,Uzbekistan,UZS,2012,1865.0
+2236,Vatu,Vanuatu,VUV,2012,89.51
+2237,Bolivar,Venezuela,VED,2012,4.3
+2238,Dong,Vietnam,VND,2012,21000.0
+2239,Tala,Western Samoa,USD,2012,2.14
+2240,Rial,Yemen,YER,2012,214.5
+2241,Dinar,Yugoslavia,RSD,2012,83.31
+2242,Kwacha,Zambia,ZMW,2012,5270.0
+2243,Dollar,Zimbabwe,ZWL,2012,1.0
+2244,Afghani,Afghanistan,ANF,2013,53.18
+2245,Lek,Albania,ALL,2013,109.07
+2246,Dinar,Algeria,DZD,2013,78.9
+2247,Kwanza,Angola,AOA,2013,95.0
+2248,E. Caribbean Dollar,Antigua-Barbuda,XCD,2013,2.7
+2249,Peso,Argentina,ARS,2013,5.12
+2250,Dram,Armenia,AMD,2013,415.0
+2251,Dollar,Australia,AUD,2013,0.96
+2252,Euro,Austria,EUR,2013,0.78
+2253,Manat,Azerbaijan,AZN,2013,0.8
+2254,Dollar,Bahamas,BSD,2013,1.0
+2255,Dinar,Bahrain,BHD,2013,0.38
+2256,Taka,Bangladesh,BDT,2013,80.0
+2257,Dollar,Barbados,BBD,2013,2.02
+2258,Ruble,Belarus,BYN,2013,8680.0
+2259,Euro,Belgium,EUR,2013,0.78
+2260,Dollar,Belize,BZD,2013,2.0
+2261,Cfa Franc,Benin,XOF,2013,511.67
+2262,Dollar,Bermuda,BMD,2013,1.0
+2263,Boliviano,Bolivia,BOB,2013,6.96
+2264,Marka,Bosnia-Hercegovina,BAM,2013,1.53
+2265,Pula,Botswana,BWP,2013,8.24
+2266,Real,Brazil,BRL,2013,2.02
+2267,Dollar,Brunei,BND,2013,1.24
+2268,Lev,Bulgaria,BGN,2013,1.53
+2269,Cfa Franc,Burkina Faso,XOF,2013,511.67
+2270,Kyat,Burma-Myanmar,MMK,2013,878.0
+2271,Franc,Burundi,BIF,2013,1650.0
+2272,Riel,Cambodia,KHR,2013,4103.0
+2273,Cfa Franc,Cameroon,XAF,2013,511.67
+2274,Dollar,Canada,CAD,2013,1.02
+2275,Escudo,Cape Verde,CVE,2013,84.18
+2276,Dollar,Cayman Islands,KYD,2013,0.82
+2277,Cfa Franc,Central African Republic,XAF,2013,511.67
+2278,Cfa Franc,Chad,XAF,2013,511.67
+2279,Peso,Chile,CLP,2013,471.5
+2280,Renminbi,China,CNY,2013,6.21
+2281,Peso,Colombia,COP,2013,1824.0
+2282,Franc,Comoros,KMF,2013,361.35
+2283,Cfa Franc,Congo,XAF,2013,511.67
+2284,Congolese Franc,"Congo, Dem. Rep",CDF,2013,920.0
+2285,Colon,Costa Rica,CRC,2013,498.6
+2286,Kuna,Croatia,EUR,2013,5.83
+2287,Peso,Cuba,CUP,2013,1.0
+2288,Euro,Cyprus,EUR,2013,0.78
+2289,Koruna,Czechia,CZK,2013,19.7
+2290,Krone,Denmark,DKK,2013,5.82
+2291,Franc,Djibouti,DJF,2013,177.0
+2292,Peso,Dominican Republic,DOP,2013,40.86
+2293,Dollar,Ecuador,USD,2013,1.0
+2294,Pound,Egypt,EGP,2013,6.8
+2295,Colon,El Salvador,SVC,2013,1.0
+2296,Cfa Franc,Equatorial Guinea,XAF,2013,511.67
+2297,Nakfa,Eritrea,ERN,2013,15.0
+2298,Euro,Estonia,EUR,2013,0.78
+2299,Birr,Ethiopia,ETB,2013,18.4
+2300,Euro,Euro Zone,EUR,2013,0.78
+2301,Dollar,Fiji,FJD,2013,1.76
+2302,Euro,Finland,EUR,2013,0.78
+2303,Euro,France,EUR,2013,0.78
+2304,Cfa Franc,Gabon,XAF,2013,511.67
+2305,Dalasi,Gambia,GMD,2013,35.0
+2306,Lari,Georgia,GEL,2013,1.66
+2307,Euro,Germany,EUR,2013,0.78
+2308,Cedi,Ghana,GHS,2013,1.94
+2309,Euro,Greece,EUR,2013,0.78
+2310,E. Caribbean Dollar,Grenada,XCD,2013,2.7
+2311,Quentzal,Guatemala,GTQ,2013,7.78
+2312,Franc,Guinea,GNF,2013,6949.0
+2313,Cfa Franc,Guinea Bissau,XOF,2013,511.67
+2314,Dollar,Guyana,GYD,2013,202.0
+2315,Gourde,Haiti,HTG,2013,42.5
+2316,Lempira,Honduras,HNL,2013,19.91
+2317,Dollar,Hong Kong,HKD,2013,7.76
+2318,Forint,Hungary,HUF,2013,237.29
+2319,Krona,Iceland,ISK,2013,123.52
+2320,Rupee,India,INR,2013,54.15
+2321,Rupiah,Indonesia,IDR,2013,9625.0
+2322,Rial,Iran,IRR,2013,8229.0
+2323,Dinar,Iraq,IQD,2013,1166.0
+2324,Euro,Ireland,EUR,2013,0.78
+2325,Shekel,Israel,ILS,2013,3.64
+2326,Euro,Italy,EUR,2013,0.78
+2327,Cfa Franc,Ivory Coast,XOF,2013,511.67
+2328,Dollar,Jamaica,JMD,2013,96.0
+2329,Yen,Japan,JPY,2013,94.06
+2330,Dinar,Jordan,JOD,2013,0.71
+2331,Tenge,Kazakhstan,KZT,2013,150.9
+2332,Shilling,Kenya,KES,2013,85.25
+2333,Won,Korea,KRW,2013,1111.05
+2334,Dinar,Kuwait,KWD,2013,0.29
+2335,Som,Kyrgyzstan,KGS,2013,47.6
+2336,Kip,Laos,LAK,2013,7731.0
+2337,Euro,Latvia,EUR,2013,0.55
+2338,Pound,Lebanon,LBP,2013,1500.0
+2339,South African Rand,Lesotho,LSL,2013,9.25
+2340,U.S. Dollar,Liberia,LRD,2013,49.0
+2341,Dinar,Libya,LYD,2013,1.28
+2342,Euro,Lithuania,EUR,2013,2.69
+2343,Euro,Luxembourg,EUR,2013,0.78
+2344,Mop,Macao,MOP,2013,46.7
+2345,Denar,North Macedonia,MKD,2013,46.7
+2346,Ariary,Madagascar,MGA,2013,2234.26
+2347,Kwacha,Malawi,MWK,2013,415.0
+2348,Ringgit,Malaysia,MYR,2013,3.09
+2349,Cfa Franc,Mali,XOF,2013,511.67
+2350,Euro,Malta,EUR,2013,0.78
+2351,Dollar,Marshalls Islands,USD,2013,1.0
+2352,Euro,Martinique,EUR,2013,0.78
+2353,Ouguiya,Mauritania,MRU,2013,300.0
+2354,Rupee,Mauritius,MUR,2013,31.2
+2355,Peso,Mexico,MXN,2013,12.32
+2356,Dollar,Micronesia,USD,2013,1.0
+2357,Leu,Moldova,MDL,2013,12.35
+2358,Tugrik,Mongolia,MNT,2013,1410.37
+2359,Euro,Montenegro,EUR,2013,0.78
+2360,Dirham,Morocco,MAD,2013,8.64
+2361,Metical,Mozambique,MZN,2013,30.2
+2362,Dollar,Namibia,NAD,2013,9.25
+2363,Rupee,Nepal,NPR,2013,86.9
+2364,Euro,Netherlands,EUR,2013,0.78
+2365,Guilder,Netherlands Antilles,EUR,2013,1.78
+2366,Dollar,New Zealand,NZD,2013,1.2
+2367,Cordoba,Nicaragua,NIO,2013,24.35
+2368,Cfa Franc,Niger,XOF,2013,511.67
+2369,Naira,Nigeria,NGN,2013,158.45
+2370,Krone,Norway,NOK,2013,5.83
+2371,Rial,Oman,OMR,2013,0.39
+2372,Rupee,Pakistan,PKR,2013,98.38
+2373,Dollar,Palau,USD,2013,1.0
+2374,Balboa,Panama,PAB,2013,1.0
+2375,Kina,Papua New Guinea,PGK,2013,1.99
+2376,Guarani,Paraguay,PYG,2013,3996.0
+2377,Nuevo Sol,Peru,PEN,2013,2.59
+2378,Peso,Philippines,PHP,2013,40.83
+2379,Zloty,Poland,PLN,2013,3.26
+2380,Euro,Portugal,EUR,2013,0.78
+2381,Riyal,Qatar,QAR,2013,3.64
+2382,Dollar,Republic Of Palau,USD,2013,1.0
+2383,Leu,Romania,RON,2013,3.44
+2384,Ruble,Russia,RUB,2013,633.66
+2385,Franc,Rwanda,RWF,2013,633.66
+2386,Dobras,Sao Tome & Principe,STN,2013,19189.41
+2387,Riyal,Saudi Arabia,SAR,2013,3.75
+2388,Cfa Franc,Senegal,XOF,2013,511.67
+2389,Dinar,Serbia,RSD,2013,11.27
+2390,Rupee,Seychelles,SCR,2013,11.27
+2391,Leone,Sierra Leone,SLE,2013,4316.0
+2392,Dollar,Singapore,SGD,2013,1.24
+2393,Korun,Slovakia,EUR,2013,0.79
+2394,Euro,Slovenia,EUR,2013,0.78
+2395,Dollar,Solomon Islands,SBD,2013,7.3
+2396,Rand,South Africa,ZAR,2013,9.25
+2397,Pound,South Sudanese,SSP,2013,31.02
+2398,Euro,Spain,EUR,2013,0.78
+2399,Rupee,Sri Lanka,LKR,2013,126.7
+2400,Sudanese Pound,Sudan,SDG,2013,5.8
+2401,Guilder,Suriname,SRD,2013,3.35
+2402,Lilangeni,Swaziland,SZL,2013,9.25
+2403,Krona,Sweden,SEK,2013,6.52
+2404,Franc,Switzerland,CHF,2013,0.95
+2405,Pound,Syria,SYP,2013,63.0
+2406,Dollar,Taiwan,TWD,2013,29.85
+2407,Ruble,Tajikistan,TJS,2013,4.76
+2408,Shilling,Tanzania,TZS,2013,1612.0
+2409,Baht,Thailand,THB,2013,29.28
+2410,Dili,Timor Leste,USD,2013,511.67
+2411,Cfa Franc,Togo,XOF,2013,511.67
+2412,Pa'Anga,Tonga,TOP,2013,1.65
+2413,Dollar,Trinidad & Tobago,TTD,2013,6.38
+2414,Dinar,Tunisia,TND,2013,1.59
+2415,Lira,Turkey,TRY,2013,1.81
+2416,Ruble,Turkmenistan,TMT,2013,2.84
+2417,Shilling,Uganda,UGX,2013,2585.0
+2418,Hryvnia,Ukraine,UAH,2013,8.13
+2419,Dirham,United Arab Emirates,AED,2013,3.67
+2420,Pound Sterling,United Kingdom,GBP,2013,0.66
+2421,Peso,Uruguay,UYU,2013,18.78
+2422,Som,Uzbekistan,UZS,2013,2071.0
+2423,Vatu,Vanuatu,VUV,2013,90.71
+2424,Bolivar,Venezuela,VED,2013,6.3
+2425,Dong,Vietnam,VND,2013,20900.0
+2426,Tala,Western Samoa,USD,2013,2.18
+2427,Rial,Yemen,YER,2013,214.5
+2428,Dinar,Yugoslavia,RSD,2013,87.43
+2429,Kwacha,Zambia,ZMW,2013,5365.0
+2430,Dollar,Zimbabwe,ZWL,2013,1.0
+2431,Afghani,Afghanistan,ANF,2014,56.6
+2432,Lek,Albania,ALL,2014,101.25
+2433,Dinar,Algeria,DZD,2014,77.49
+2434,Kwanza,Angola,AOA,2014,95.0
+2435,E. Caribbean Dollar,Antigua-Barbuda,XCD,2014,2.7
+2436,Peso,Argentina,ARS,2014,7.88
+2437,Dram,Armenia,AMD,2014,410.0
+2438,Dollar,Australia,AUD,2014,1.12
+2439,Euro,Austria,EUR,2014,0.73
+2440,Manat,Azerbaijan,AZN,2014,0.8
+2441,Dollar,Bahamas,BSD,2014,1.0
+2442,Dinar,Bahrain,BHD,2014,0.38
+2443,Taka,Bangladesh,BDT,2014,79.0
+2444,Dollar,Barbados,BBD,2014,2.02
+2445,Ruble,Belarus,BYN,2014,9760.0
+2446,Euro,Belgium,EUR,2014,0.73
+2447,Dollar,Belize,BZD,2014,2.0
+2448,Cfa Franc,Benin,XOF,2014,477.79
+2449,Dollar,Bermuda,BMD,2014,1.0
+2450,Boliviano,Bolivia,BOB,2014,6.86
+2451,Marka,Bosnia-Hercegovina,BAM,2014,1.42
+2452,Pula,Botswana,BWP,2014,8.81
+2453,Real,Brazil,BRL,2014,2.32
+2454,Dollar,Brunei,BND,2014,1.25
+2455,Lev,Bulgaria,BGN,2014,1.42
+2456,Cfa Franc,Burkina Faso,XOF,2014,477.79
+2457,Kyat,Burma-Myanmar,MMK,2014,987.0
+2458,Franc,Burundi,BIF,2014,1540.0
+2459,Riel,Cambodia,KHR,2014,4103.0
+2460,Cfa Franc,Cameroon,XAF,2014,475.54
+2461,Dollar,Canada,CAD,2014,1.11
+2462,Escudo,Cape Verde,CVE,2014,80.3
+2463,Dollar,Cayman Islands,KYD,2014,0.82
+2464,Cfa Franc,Central African Republic,XAF,2014,475.54
+2465,Cfa Franc,Chad,XAF,2014,475.54
+2466,Peso,Chile,CLP,2014,561.45
+2467,Renminbi,China,CNY,2014,6.15
+2468,Peso,Colombia,COP,2014,2052.23
+2469,Franc,Comoros,KMF,2014,361.35
+2470,Cfa Franc,Congo,XAF,2014,475.54
+2471,Congolese Franc,"Congo, Dem. Rep",CDF,2014,920.0
+2472,Colon,Costa Rica,CRC,2014,502.0
+2473,Kuna,Croatia,EUR,2014,5.52
+2474,Peso,Cuba,CUP,2014,1.0
+2475,Euro,Cyprus,EUR,2014,0.73
+2476,Koruna,Czechia,CZK,2014,19.57
+2477,Krone,Denmark,DKK,2014,5.41
+2478,Franc,Djibouti,DJF,2014,177.0
+2479,Peso,Dominican Republic,DOP,2014,43.16
+2480,Dollar,Ecuador,USD,2014,1.0
+2481,Pound,Egypt,EGP,2014,6.96
+2482,Colon,El Salvador,SVC,2014,1.0
+2483,Cfa Franc,Equatorial Guinea,XAF,2014,475.54
+2484,Nakfa,Eritrea,ERN,2014,15.0
+2485,Euro,Estonia,EUR,2014,0.73
+2486,Birr,Ethiopia,ETB,2014,19.22
+2487,Euro,Euro Zone,EUR,2014,0.73
+2488,Dollar,Fiji,FJD,2014,1.86
+2489,Euro,Finland,EUR,2014,0.73
+2490,Euro,France,EUR,2014,0.73
+2491,Cfa Franc,Gabon,XAF,2014,475.54
+2492,Dalasi,Gambia,GMD,2014,40.0
+2493,Lari,Georgia,GEL,2014,1.75
+2494,Euro,Germany,EUR,2014,0.73
+2495,Cedi,Ghana,GHS,2014,2.55
+2496,Euro,Greece,EUR,2014,0.73
+2497,E. Caribbean Dollar,Grenada,XCD,2014,2.7
+2498,Quentzal,Guatemala,GTQ,2014,7.75
+2499,Franc,Guinea,GNF,2014,6892.0
+2500,Cfa Franc,Guinea Bissau,XOF,2014,477.79
+2501,Dollar,Guyana,GYD,2014,202.0
+2502,Gourde,Haiti,HTG,2014,43.85
+2503,Lempira,Honduras,HNL,2014,20.42
+2504,Dollar,Hong Kong,HKD,2014,7.76
+2505,Forint,Hungary,HUF,2014,224.76
+2506,Krona,Iceland,ISK,2014,112.37
+2507,Rupee,India,INR,2014,61.75
+2508,Rupiah,Indonesia,IDR,2014,11500.0
+2509,Rial,Iran,IRR,2014,8229.0
+2510,Dinar,Iraq,IQD,2014,1166.0
+2511,Euro,Ireland,EUR,2014,0.73
+2512,Shekel,Israel,ILS,2014,3.48
+2513,Euro,Italy,EUR,2014,0.73
+2514,Cfa Franc,Ivory Coast,XOF,2014,106.0
+2515,Dollar,Jamaica,JMD,2014,106.0
+2516,Yen,Japan,JPY,2014,101.88
+2517,Dinar,Jordan,JOD,2014,0.71
+2518,Tenge,Kazakhstan,KZT,2014,184.1
+2519,Shilling,Kenya,KES,2014,86.45
+2520,Won,Korea,KRW,2014,1065.71
+2521,Dinar,Kuwait,KWD,2014,0.28
+2522,Som,Kyrgyzstan,KGS,2014,52.8
+2523,Kip,Laos,LAK,2014,8014.0
+2524,Euro,Latvia,EUR,2014,0.73
+2525,Pound,Lebanon,LBP,2014,1500.0
+2526,South African Rand,Lesotho,LSL,2014,10.63
+2527,U.S. Dollar,Liberia,LRD,2014,81.0
+2528,Dinar,Libya,LYD,2014,1.24
+2529,Euro,Lithuania,EUR,2014,2.5
+2530,Euro,Luxembourg,EUR,2014,0.73
+2531,Mop,Macao,MOP,2014,8.0
+2532,Denar,North Macedonia,MKD,2014,44.4
+2533,Ariary,Madagascar,MGA,2014,2330.4
+2534,Kwacha,Malawi,MWK,2014,434.0
+2535,Ringgit,Malaysia,MYR,2014,3.28
+2536,Cfa Franc,Mali,XOF,2014,477.79
+2537,Euro,Malta,EUR,2014,0.73
+2538,Dollar,Marshalls Islands,USD,2014,1.0
+2539,Euro,Martinique,EUR,2014,0.73
+2540,Ouguiya,Mauritania,MRU,2014,300.0
+2541,Rupee,Mauritius,MUR,2014,29.95
+2542,Peso,Mexico,MXN,2014,13.25
+2543,Dollar,Micronesia,USD,2014,1.0
+2544,Leu,Moldova,MDL,2014,13.58
+2545,Tugrik,Mongolia,MNT,2014,1787.59
+2546,Euro,Montenegro,EUR,2014,0.73
+2547,Dirham,Morocco,MAD,2014,8.18
+2548,Metical,Mozambique,MZN,2014,31.4
+2549,Dollar,Namibia,NAD,2014,10.63
+2550,Rupee,Nepal,NPR,2014,100.6
+2551,Euro,Netherlands,EUR,2014,0.73
+2552,Guilder,Netherlands Antilles,EUR,2014,1.78
+2553,Dollar,New Zealand,NZD,2014,1.19
+2554,Cordoba,Nicaragua,NIO,2014,25.55
+2555,Cfa Franc,Niger,XOF,2014,477.79
+2556,Naira,Nigeria,NGN,2014,165.1
+2557,Krone,Norway,NOK,2014,6.0
+2558,Rial,Oman,OMR,2014,0.39
+2559,Rupee,Pakistan,PKR,2014,104.87
+2560,Dollar,Palau,USD,2014,1.0
+2561,Balboa,Panama,PAB,2014,1.0
+2562,Kina,Papua New Guinea,PGK,2014,2.43
+2563,Guarani,Paraguay,PYG,2014,4430.41
+2564,Nuevo Sol,Peru,PEN,2014,2.81
+2565,Peso,Philippines,PHP,2014,44.61
+2566,Zloty,Poland,PLN,2014,3.02
+2567,Euro,Portugal,EUR,2014,0.73
+2568,Riyal,Qatar,QAR,2014,3.64
+2569,Dollar,Republic Of Palau,USD,2014,3.26
+2570,Leu,Romania,RON,2014,3.26
+2571,Ruble,Russia,RUB,2014,36.13
+2572,Franc,Rwanda,RWF,2014,674.24
+2573,Dobras,Sao Tome & Principe,STN,2014,17850.15
+2574,Riyal,Saudi Arabia,SAR,2014,3.75
+2575,Cfa Franc,Senegal,XOF,2014,477.79
+2576,Dinar,Serbia,RSD,2014,83.81
+2577,Rupee,Seychelles,SCR,2014,12.0
+2578,Leone,Sierra Leone,SLE,2014,4321.0
+2579,Dollar,Singapore,SGD,2014,1.27
+2580,Korun,Slovakia,EUR,2014,0.73
+2581,Euro,Slovenia,EUR,2014,0.73
+2582,Dollar,Solomon Islands,SBD,2014,7.09
+2583,Rand,South Africa,ZAR,2014,10.63
+2584,Pound,South Sudanese,SSP,2014,3.0
+2585,Euro,Spain,EUR,2014,0.73
+2586,Rupee,Sri Lanka,LKR,2014,130.7
+2587,Sudanese Pound,Sudan,SDG,2014,6.1
+2588,Guilder,Suriname,SRD,2014,3.35
+2589,Lilangeni,Swaziland,SZL,2014,10.63
+2590,Krona,Sweden,SEK,2014,6.42
+2591,Franc,Switzerland,CHF,2014,0.88
+2592,Pound,Syria,SYP,2014,143.15
+2593,Dollar,Taiwan,TWD,2014,30.3
+2594,Ruble,Tajikistan,TJS,2014,4.8
+2595,Shilling,Tanzania,TZS,2014,1621.0
+2596,Baht,Thailand,THB,2014,32.63
+2597,Dili,Timor Leste,USD,2014,1.0
+2598,Cfa Franc,Togo,XOF,2014,477.79
+2599,Pa'Anga,Tonga,TOP,2014,1.76
+2600,Dollar,Trinidad & Tobago,TTD,2014,6.38
+2601,Dinar,Tunisia,TND,2014,1.57
+2602,Lira,Turkey,TRY,2014,2.22
+2603,Ruble,Turkmenistan,TMT,2014,2.84
+2604,Shilling,Uganda,UGX,2014,2525.0
+2605,Hryvnia,Ukraine,UAH,2014,9.4
+2606,Dirham,United Arab Emirates,AED,2014,3.67
+2607,Pound Sterling,United Kingdom,GBP,2014,0.6
+2608,Peso,Uruguay,UYU,2014,22.42
+2609,Som,Uzbekistan,UZS,2014,2265.0
+2610,Vatu,Vanuatu,VUV,2014,95.01
+2611,Bolivar,Venezuela,VED,2014,6.3
+2612,Dong,Vietnam,VND,2014,21100.0
+2613,Tala,Western Samoa,USD,2014,2.27
+2614,Rial,Yemen,YER,2014,214.5
+2615,Dinar,Yugoslavia,RSD,2014,5455.0
+2616,Kwacha,Zambia,ZMW,2014,5455.0
+2617,Dollar,Zimbabwe,ZWL,2014,1.0
+2618,Afghani,Afghanistan,ANF,2015,57.34
+2619,Lek,Albania,ALL,2015,130.25
+2620,Dinar,Algeria,DZD,2015,97.38
+2621,Kwanza,Angola,AOA,2015,104.0
+2622,E. Caribbean Dollar,Antigua-Barbuda,XCD,2015,2.7
+2623,Peso,Argentina,ARS,2015,8.81
+2624,Dram,Armenia,AMD,2015,470.0
+2625,Dollar,Australia,AUD,2015,1.32
+2626,Euro,Austria,EUR,2015,0.93
+2627,Manat,Azerbaijan,AZN,2015,1.05
+2628,Dollar,Bahamas,BSD,2015,1.0
+2629,Dinar,Bahrain,BHD,2015,0.38
+2630,Taka,Bangladesh,BDT,2015,79.0
+2631,Dollar,Barbados,BBD,2015,2.02
+2632,Ruble,Belarus,BYN,2015,14740.0
+2633,Euro,Belgium,EUR,2015,0.93
+2634,Dollar,Belize,BZD,2015,2.0
+2635,Cfa Franc,Benin,XOF,2015,606.41
+2636,Dollar,Bermuda,BMD,2015,1.0
+2637,Boliviano,Bolivia,BOB,2015,6.86
+2638,Marka,Bosnia-Hercegovina,BAM,2015,1.82
+2639,Pula,Botswana,BWP,2015,9.97
+2640,Real,Brazil,BRL,2015,3.26
+2641,Dollar,Brunei,BND,2015,1.37
+2642,Lev,Bulgaria,BGN,2015,1.82
+2643,Cfa Franc,Burkina Faso,XOF,2015,606.41
+2644,Kyat,Burma-Myanmar,MMK,2015,1033.0
+2645,Franc,Burundi,BIF,2015,1600.0
+2646,Riel,Cambodia,KHR,2015,4103.0
+2647,Cfa Franc,Cameroon,XAF,2015,606.41
+2648,Dollar,Canada,CAD,2015,1.28
+2649,Escudo,Cape Verde,CVE,2015,99.95
+2650,Dollar,Cayman Islands,KYD,2015,0.82
+2651,Cfa Franc,Central African Republic,XAF,2015,606.41
+2652,Cfa Franc,Chad,XAF,2015,606.41
+2653,Peso,Chile,CLP,2015,629.4
+2654,Renminbi,China,CNY,2015,6.2
+2655,Peso,Colombia,COP,2015,2575.0
+2656,Franc,Comoros,KMF,2015,361.35
+2657,Cfa Franc,Congo,XAF,2015,606.41
+2658,Congolese Franc,"Congo, Dem. Rep",CDF,2015,920.0
+2659,Colon,Costa Rica,CRC,2015,527.36
+2660,Kuna,Croatia,EUR,2015,6.9
+2661,Peso,Cuba,CUP,2015,1.0
+2662,Euro,Cyprus,EUR,2015,0.93
+2663,Koruna,Czechia,CZK,2015,24.92
+2664,Krone,Denmark,DKK,2015,6.95
+2665,Franc,Djibouti,DJF,2015,177.0
+2666,Peso,Dominican Republic,DOP,2015,44.65
+2667,Dollar,Ecuador,USD,2015,1.0
+2668,Pound,Egypt,EGP,2015,7.63
+2669,Colon,El Salvador,SVC,2015,1.0
+2670,Cfa Franc,Equatorial Guinea,XAF,2015,606.41
+2671,Nakfa,Eritrea,ERN,2015,15.0
+2672,Euro,Estonia,EUR,2015,0.93
+2673,Birr,Ethiopia,ETB,2015,20.33
+2674,Euro,Euro Zone,EUR,2015,0.93
+2675,Dollar,Fiji,FJD,2015,2.04
+2676,Euro,Finland,EUR,2015,0.93
+2677,Euro,France,EUR,2015,0.93
+2678,Cfa Franc,Gabon,XAF,2015,606.41
+2679,Dalasi,Gambia,GMD,2015,48.0
+2680,Lari,Georgia,GEL,2015,2.23
+2681,Euro,Germany,EUR,2015,0.93
+2682,Cedi,Ghana,GHS,2015,3.81
+2683,Euro,Greece,EUR,2015,0.93
+2684,E. Caribbean Dollar,Grenada,XCD,2015,2.7
+2685,Quentzal,Guatemala,GTQ,2015,7.65
+2686,Franc,Guinea,GNF,2015,7361.0
+2687,Cfa Franc,Guinea Bissau,XOF,2015,606.41
+2688,Dollar,Guyana,GYD,2015,202.0
+2689,Gourde,Haiti,HTG,2015,46.75
+2690,Lempira,Honduras,HNL,2015,21.8
+2691,Dollar,Hong Kong,HKD,2015,7.75
+2692,Forint,Hungary,HUF,2015,278.65
+2693,Krona,Iceland,ISK,2015,136.99
+2694,Rupee,India,INR,2015,62.25
+2695,Rupiah,Indonesia,IDR,2015,12985.0
+2696,Rial,Iran,IRR,2015,28085.0
+2697,Dinar,Iraq,IQD,2015,1166.0
+2698,Euro,Ireland,EUR,2015,0.93
+2699,Shekel,Israel,ILS,2015,3.98
+2700,Euro,Italy,EUR,2015,0.93
+2701,Cfa Franc,Ivory Coast,XOF,2015,113.9
+2702,Dollar,Jamaica,JMD,2015,113.9
+2703,Yen,Japan,JPY,2015,119.9
+2704,Dinar,Jordan,JOD,2015,0.71
+2705,Tenge,Kazakhstan,KZT,2015,185.7
+2706,Shilling,Kenya,KES,2015,92.24
+2707,Won,Korea,KRW,2015,1108.48
+2708,Dinar,Kuwait,KWD,2015,0.3
+2709,Som,Kyrgyzstan,KGS,2015,63.9
+2710,Kip,Laos,LAK,2015,8093.0
+2711,Euro,Latvia,EUR,2015,0.51
+2712,Pound,Lebanon,LBP,2015,1500.0
+2713,South African Rand,Lesotho,LSL,2015,12.21
+2714,U.S. Dollar,Liberia,LRD,2015,84.0
+2715,Dinar,Libya,LYD,2015,1.37
+2716,Euro,Lithuania,EUR,2015,2.84
+2717,Euro,Luxembourg,EUR,2015,0.93
+2718,Mop,Macao,MOP,2015,8.0
+2719,Denar,North Macedonia,MKD,2015,55.0
+2720,Ariary,Madagascar,MGA,2015,2877.37
+2721,Kwacha,Malawi,MWK,2015,456.0
+2722,Ringgit,Malaysia,MYR,2015,3.7
+2723,Cfa Franc,Mali,XOF,2015,606.41
+2724,Euro,Malta,EUR,2015,0.93
+2725,Dollar,Marshalls Islands,USD,2015,1.0
+2726,Euro,Martinique,EUR,2015,0.93
+2727,Ouguiya,Mauritania,MRU,2015,315.0
+2728,Rupee,Mauritius,MUR,2015,36.42
+2729,Peso,Mexico,MXN,2015,15.35
+2730,Dollar,Micronesia,USD,2015,1.0
+2731,Leu,Moldova,MDL,2015,17.75
+2732,Tugrik,Mongolia,MNT,2015,1982.09
+2733,Euro,Montenegro,EUR,2015,0.93
+2734,Dirham,Morocco,MAD,2015,9.92
+2735,Metical,Mozambique,MZN,2015,36.77
+2736,Dollar,Namibia,NAD,2015,12.21
+2737,Rupee,Nepal,NPR,2015,99.7
+2738,Euro,Netherlands,EUR,2015,0.93
+2739,Guilder,Netherlands Antilles,EUR,2015,1.78
+2740,Dollar,New Zealand,NZD,2015,1.34
+2741,Cordoba,Nicaragua,NIO,2015,26.8
+2742,Cfa Franc,Niger,XOF,2015,606.41
+2743,Naira,Nigeria,NGN,2015,199.0
+2744,Krone,Norway,NOK,2015,8.09
+2745,Rial,Oman,OMR,2015,0.38
+2746,Rupee,Pakistan,PKR,2015,101.92
+2747,Dollar,Palau,USD,2015,1.0
+2748,Balboa,Panama,PAB,2015,1.0
+2749,Kina,Papua New Guinea,PGK,2015,2.62
+2750,Guarani,Paraguay,PYG,2015,4795.37
+2751,Nuevo Sol,Peru,PEN,2015,3.08
+2752,Peso,Philippines,PHP,2015,44.68
+2753,Zloty,Poland,PLN,2015,3.8
+2754,Euro,Portugal,EUR,2015,0.93
+2755,Riyal,Qatar,QAR,2015,3.64
+2756,Dollar,Republic Of Palau,USD,2015,4.1
+2757,Leu,Romania,RON,2015,4.1
+2758,Ruble,Russia,RUB,2015,58.13
+2759,Franc,Rwanda,RWF,2015,705.45
+2760,Dobras,Sao Tome & Principe,STN,2015,22569.01
+2761,Riyal,Saudi Arabia,SAR,2015,3.75
+2762,Cfa Franc,Senegal,XOF,2015,606.41
+2763,Dinar,Serbia,RSD,2015,111.42
+2764,Rupee,Seychelles,SCR,2015,13.5
+2765,Leone,Sierra Leone,SLE,2015,4808.0
+2766,Dollar,Singapore,SGD,2015,1.37
+2767,Korun,Slovakia,EUR,2015,0.93
+2768,Euro,Slovenia,EUR,2015,0.93
+2769,Dollar,Solomon Islands,SBD,2015,7.44
+2770,Rand,South Africa,ZAR,2015,12.21
+2771,Pound,South Sudanese,SSP,2015,3.0
+2772,Euro,Spain,EUR,2015,0.93
+2773,Rupee,Sri Lanka,LKR,2015,132.95
+2774,Sudanese Pound,Sudan,SDG,2015,6.4
+2775,Guilder,Suriname,SRD,2015,3.35
+2776,Lilangeni,Swaziland,SZL,2015,12.21
+2777,Krona,Sweden,SEK,2015,8.64
+2778,Franc,Switzerland,CHF,2015,0.97
+2779,Pound,Syria,SYP,2015,211.55
+2780,Dollar,Taiwan,TWD,2015,31.27
+2781,Ruble,Tajikistan,TJS,2015,6.26
+2782,Shilling,Tanzania,TZS,2015,1845.0
+2783,Baht,Thailand,THB,2015,32.52
+2784,Dili,Timor Leste,USD,2015,1.0
+2785,Cfa Franc,Togo,XOF,2015,606.41
+2786,Pa'Anga,Tonga,TOP,2015,1.9
+2787,Dollar,Trinidad & Tobago,TTD,2015,6.35
+2788,Dinar,Tunisia,TND,2015,1.96
+2789,Lira,Turkey,TRY,2015,2.61
+2790,Ruble,Turkmenistan,TMT,2015,3.49
+2791,Shilling,Uganda,UGX,2015,2973.0
+2792,Hryvnia,Ukraine,UAH,2015,23.16
+2793,Dirham,United Arab Emirates,AED,2015,3.67
+2794,Pound Sterling,United Kingdom,GBP,2015,0.68
+2795,Peso,Uruguay,UYU,2015,25.82
+2796,Som,Uzbekistan,UZS,2015,2531.0
+2797,Vatu,Vanuatu,VUV,2015,104.05
+2798,Bolivar,Venezuela,VED,2015,6.3
+2799,Dong,Vietnam,VND,2015,21400.0
+2800,Tala,Western Samoa,USD,2015,2.4
+2801,Rial,Yemen,YER,2015,214.5
+2802,Dinar,Yugoslavia,RSD,2015,5455.0
+2803,Kwacha,Zambia,ZMW,2015,5455.0
+2804,Dollar,Zimbabwe,ZWL,2015,1.0
+2805,Afghani,Afghanistan,ANF,2016,68.45
+2806,Lek,Albania,ALL,2016,121.35
+2807,Dinar,Algeria,DZD,2016,108.3
+2808,Kwanza,Angola,AOA,2016,160.0
+2809,E. Caribbean Dollar,Antigua-Barbuda,XCD,2016,2.7
+2810,Peso,Argentina,ARS,2016,14.59
+2811,Dram,Armenia,AMD,2016,480.0
+2812,Dollar,Australia,AUD,2016,1.3
+2813,Euro,Austria,EUR,2016,0.88
+2814,Manat,Azerbaijan,AZN,2016,1.58
+2815,Dollar,Bahamas,BSD,2016,1.0
+2816,Dinar,Bahrain,BHD,2016,0.38
+2817,Taka,Bangladesh,BDT,2016,79.0
+2818,Dollar,Barbados,BBD,2016,2.02
+2819,Ruble,Belarus,BYN,2016,20133.0
+2820,Euro,Belgium,EUR,2016,0.88
+2821,Dollar,Belize,BZD,2016,2.0
+2822,Cfa Franc,Benin,XOF,2016,575.7
+2823,Dollar,Bermuda,BMD,2016,1.0
+2824,Boliviano,Bolivia,BOB,2016,6.77
+2825,Marka,Bosnia-Hercegovina,BAM,2016,1.72
+2826,Pula,Botswana,BWP,2016,10.82
+2827,Real,Brazil,BRL,2016,3.59
+2828,Dollar,Brunei,BND,2016,1.34
+2829,Lev,Bulgaria,BGN,2016,1.72
+2830,Cfa Franc,Burkina Faso,XOF,2016,575.7
+2831,Kyat,Burma-Myanmar,MMK,2016,1216.0
+2832,Franc,Burundi,BIF,2016,1600.0
+2833,Riel,Cambodia,KHR,2016,4103.0
+2834,Cfa Franc,Cameroon,XAF,2016,575.75
+2835,Dollar,Canada,CAD,2016,1.29
+2836,Escudo,Cape Verde,CVE,2016,96.38
+2837,Dollar,Cayman Islands,KYD,2016,1.0
+2838,Cfa Franc,Central African Republic,XAF,2016,575.75
+2839,Cfa Franc,Chad,XAF,2016,575.75
+2840,Peso,Chile,CLP,2016,671.95
+2841,Renminbi,China,CNY,2016,6.46
+2842,Peso,Colombia,COP,2016,3013.9
+2843,Franc,Comoros,KMF,2016,441.0
+2844,Cfa Franc,Congo,XAF,2016,575.75
+2845,Congolese Franc,"Congo, Dem. Rep",CDF,2016,920.0
+2846,Colon,Costa Rica,CRC,2016,529.59
+2847,Kuna,Croatia,EUR,2016,6.54
+2848,Peso,Cuba,CUP,2016,1.0
+2849,Euro,Cyprus,EUR,2016,0.88
+2850,Koruna,Czechia,CZK,2016,23.41
+2851,Krone,Denmark,DKK,2016,6.54
+2852,Franc,Djibouti,DJF,2016,177.0
+2853,Peso,Dominican Republic,DOP,2016,45.64
+2854,Dollar,Ecuador,USD,2016,1.0
+2855,Pound,Egypt,EGP,2016,8.88
+2856,Colon,El Salvador,SVC,2016,1.0
+2857,Cfa Franc,Equatorial Guinea,XAF,2016,575.75
+2858,Nakfa,Eritrea,ERN,2016,15.0
+2859,Euro,Estonia,EUR,2016,0.88
+2860,Birr,Ethiopia,ETB,2016,21.36
+2861,Euro,Euro Zone,EUR,2016,0.88
+2862,Dollar,Fiji,FJD,2016,2.04
+2863,Euro,Finland,EUR,2016,0.88
+2864,Euro,France,EUR,2016,0.88
+2865,Cfa Franc,Gabon,XAF,2016,575.75
+2866,Dalasi,Gambia,GMD,2016,40.0
+2867,Lari,Georgia,GEL,2016,2.37
+2868,Euro,Germany,EUR,2016,0.88
+2869,Cedi,Ghana,GHS,2016,3.84
+2870,Euro,Greece,EUR,2016,0.88
+2871,E. Caribbean Dollar,Grenada,XCD,2016,2.7
+2872,Quentzal,Guatemala,GTQ,2016,7.71
+2873,Franc,Guinea,GNF,2016,8965.0
+2874,Cfa Franc,Guinea Bissau,XOF,2016,575.7
+2875,Dollar,Guyana,GYD,2016,202.0
+2876,Gourde,Haiti,HTG,2016,61.67
+2877,Lempira,Honduras,HNL,2016,22.5
+2878,Dollar,Hong Kong,HKD,2016,7.75
+2879,Forint,Hungary,HUF,2016,275.41
+2880,Krona,Iceland,ISK,2016,123.21
+2881,Rupee,India,INR,2016,65.9
+2882,Rupiah,Indonesia,IDR,2016,13160.0
+2883,Rial,Iran,IRR,2016,30165.0
+2884,Dinar,Iraq,IQD,2016,1166.0
+2885,Euro,Ireland,EUR,2016,0.88
+2886,Shekel,Israel,ILS,2016,3.76
+2887,Euro,Italy,EUR,2016,0.88
+2888,Cfa Franc,Ivory Coast,XOF,2016,121.7
+2889,Dollar,Jamaica,JMD,2016,121.7
+2890,Yen,Japan,JPY,2016,112.25
+2891,Dinar,Jordan,JOD,2016,0.71
+2892,Tenge,Kazakhstan,KZT,2016,343.1
+2893,Shilling,Kenya,KES,2016,101.4
+2894,Won,Korea,KRW,2016,1136.52
+2895,Dinar,Kuwait,KWD,2016,0.3
+2896,Som,Kyrgyzstan,KGS,2016,70.0
+2897,Kip,Laos,LAK,2016,8099.0
+2898,Euro,Latvia,EUR,2016,0.88
+2899,Pound,Lebanon,LBP,2016,1500.0
+2900,South African Rand,Lesotho,LSL,2016,14.72
+2901,U.S. Dollar,Liberia,LRD,2016,90.0
+2902,Dinar,Libya,LYD,2016,1.37
+2903,Euro,Lithuania,EUR,2016,0.88
+2904,Euro,Luxembourg,EUR,2016,0.88
+2905,Mop,Macao,MOP,2016,8.0
+2906,Denar,North Macedonia,MKD,2016,53.98
+2907,Ariary,Madagascar,MGA,2016,3188.39
+2908,Kwacha,Malawi,MWK,2016,687.0
+2909,Ringgit,Malaysia,MYR,2016,3.9
+2910,Cfa Franc,Mali,XOF,2016,575.7
+2911,Euro,Malta,EUR,2016,0.88
+2912,Dollar,Marshalls Islands,USD,2016,1.0
+2913,Euro,Martinique,EUR,2016,0.88
+2914,Ouguiya,Mauritania,MRU,2016,345.0
+2915,Rupee,Mauritius,MUR,2016,35.1
+2916,Peso,Mexico,MXN,2016,17.17
+2917,Dollar,Micronesia,USD,2016,1.0
+2918,Leu,Moldova,MDL,2016,19.5
+2919,Tugrik,Mongolia,MNT,2016,2050.73
+2920,Euro,Montenegro,EUR,2016,0.88
+2921,Dirham,Morocco,MAD,2016,9.67
+2922,Metical,Mozambique,MZN,2016,47.75
+2923,Dollar,Namibia,NAD,2016,14.72
+2924,Rupee,Nepal,NPR,2016,105.9
+2925,Euro,Netherlands,EUR,2016,0.88
+2926,Guilder,Netherlands Antilles,EUR,2016,1.78
+2927,Dollar,New Zealand,NZD,2016,1.44
+2928,Cordoba,Nicaragua,NIO,2016,28.2
+2929,Cfa Franc,Niger,XOF,2016,575.7
+2930,Naira,Nigeria,NGN,2016,199.0
+2931,Krone,Norway,NOK,2016,8.27
+2932,Rial,Oman,OMR,2016,0.38
+2933,Rupee,Pakistan,PKR,2016,104.7
+2934,Dollar,Palau,USD,2016,1.0
+2935,Balboa,Panama,PAB,2016,1.0
+2936,Kina,Papua New Guinea,PGK,2016,3.09
+2937,Guarani,Paraguay,PYG,2016,5644.0
+2938,Nuevo Sol,Peru,PEN,2016,3.37
+2939,Peso,Philippines,PHP,2016,45.92
+2940,Zloty,Poland,PLN,2016,3.73
+2941,Euro,Portugal,EUR,2016,0.88
+2942,Riyal,Qatar,QAR,2016,3.64
+2943,Dollar,Republic Of Palau,USD,2016,3.92
+2944,Leu,Romania,RON,2016,3.92
+2945,Ruble,Russia,RUB,2016,66.94
+2946,Franc,Rwanda,RWF,2016,780.0
+2947,Dobras,Sao Tome & Principe,STN,2016,21966.01
+2948,Riyal,Saudi Arabia,SAR,2016,3.75
+2949,Cfa Franc,Senegal,XOF,2016,575.7
+2950,Dinar,Serbia,RSD,2016,108.6
+2951,Rupee,Seychelles,SCR,2016,13.36
+2952,Leone,Sierra Leone,SLE,2016,5985.0
+2953,Dollar,Singapore,SGD,2016,1.34
+2954,Korun,Slovakia,EUR,2016,0.88
+2955,Euro,Slovenia,EUR,2016,0.88
+2956,Dollar,Solomon Islands,SBD,2016,7.73
+2957,Rand,South Africa,ZAR,2016,14.72
+2958,Pound,South Sudanese,SSP,2016,37.5
+2959,Euro,Spain,EUR,2016,0.88
+2960,Rupee,Sri Lanka,LKR,2016,145.25
+2961,Sudanese Pound,Sudan,SDG,2016,6.6
+2962,Guilder,Suriname,SRD,2016,5.15
+2963,Lilangeni,Swaziland,SZL,2016,14.72
+2964,Krona,Sweden,SEK,2016,8.1
+2965,Franc,Switzerland,CHF,2016,0.96
+2966,Pound,Syria,SYP,2016,219.0
+2967,Dollar,Taiwan,TWD,2016,32.1
+2968,Ruble,Tajikistan,TJS,2016,7.8
+2969,Shilling,Tanzania,TZS,2016,2182.0
+2970,Baht,Thailand,THB,2016,35.12
+2971,Dili,Timor Leste,USD,2016,1.0
+2972,Cfa Franc,Togo,XOF,2016,575.7
+2973,Pa'Anga,Tonga,TOP,2016,2.12
+2974,Dollar,Trinidad & Tobago,TTD,2016,6.58
+2975,Dinar,Tunisia,TND,2016,2.01
+2976,Lira,Turkey,TRY,2016,2.82
+2977,Ruble,Turkmenistan,TMT,2016,3.49
+2978,Shilling,Uganda,UGX,2016,3365.0
+2979,Hryvnia,Ukraine,UAH,2016,26.27
+2980,Dirham,United Arab Emirates,AED,2016,3.67
+2981,Pound Sterling,United Kingdom,GBP,2016,0.69
+2982,Peso,Uruguay,UYU,2016,32.04
+2983,Som,Uzbekistan,UZS,2016,2925.0
+2984,Vatu,Vanuatu,VUV,2016,104.37
+2985,Bolivar,Venezuela,VED,2016,270.47
+2986,Dong,Vietnam,VND,2016,22286.0
+2987,Tala,Western Samoa,USD,2016,2.47
+2988,Rial,Yemen,YER,2016,214.5
+2989,Dinar,Yugoslavia,RSD,2016,5455.0
+2990,Kwacha,Zambia,ZMW,2016,5455.0
+2991,Dollar,Zimbabwe,ZWL,2016,1.0
